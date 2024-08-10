@@ -64172,7 +64172,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Carnival †0† (WXK05)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Carnival%20%E2%80%A00%E2%80%A0%20(WXK05)%20.jpg">WXK05</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Carnival%20%E2%80%A00%E2%80%A0%20(WXK05).jpg">WXK05</set>
 			<tablerow>0</tablerow>
 			<text>[Coin] 3 (You get 3 Coins as this LRIG is put onto your field.)</text>
 			<prop>
@@ -64466,7 +64466,7 @@ This ARTS costs {B}{B} less to use if you have a Urith LRIG.
 		</card>
 		<card>
 			<name>Iona, K Ultima/Maiden</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Iona%2C%20K%20Ultima%20Maiden%20.jpg">WXK06</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Iona%2C%20K%20Ultima%20Maiden.jpg">WXK06</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  Your LRIG gets the following ability:
 		
@@ -169259,7 +169259,7 @@ Inoshikachō... ah! I'm eating ice cream-! ~Tlet~
 		</card>
 		<card>
 			<name>♡Tlet♡, Goldfish Scooping</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/%E2%99%A1Tlet%E2%99%A1%2C%20Goldfish%20Scooping%20.jpg">WXP03</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/%E2%99%A1Tlet%E2%99%A1%2C%20Goldfish%20Scooping.jpg">WXP03</set>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, if there are 3 or more [Zabuton] cards on your SIGNI Zones, add 1 [Zabuton] card from your field to your hand.
 			
@@ -169280,7 +169280,7 @@ Aah! Please don't have me for dinner! ~Scooped goldfish~
 		</card>
 		<card>
 			<name>♡Tlet♡, Bizarre Summer Series</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/%E2%99%A1Tlet%E2%99%A1%2C%20Bizarre%20Summer%20Series%20.jpg">WXP03</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/%E2%99%A1Tlet%E2%99%A1%2C%20Bizarre%20Summer%20Series.jpg">WXP03</set>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down}, Read this card's flavor text:  [Zabuton Charge 1]
 			
