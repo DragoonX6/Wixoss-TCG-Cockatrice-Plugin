@@ -158034,7 +158034,7 @@ Look at the top 3 cards of your deck.  Add any number of those cards to your han
 		</card>
 		<card>
 			<name>Limit Upper (Lorenzo M. Salvatore)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi39/SPDi39-04.jpg">token</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi39/SPDi39-TK.jpg">token</set>
 			<tablerow>2</tablerow>
 			<text>(While there is exactly 1 LRIG on your field, if that LRIG is level 3 or higher, it gets +2 limit.)
 (You cannot have more than 1 "Limit Upper" on your LRIG Zone at a time.)</text>
