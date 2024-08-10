@@ -87566,7 +87566,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<name>Ariton, Crimson Evil</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P06-052[EN].jpg">WXDi-P06</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When this card is put from your field into the trash to pay for a cost or by a card effect, target 1 SIGNI on your opponent's field with 5000 power or lower, and you may {1}.  If you do, vanish that SIGNI.</text>
+			<text>[Auto]:  When this card is put from your field into the trash to pay for a cost or by a card effect, target 1 SIGNI on your opponent's field with 5000 power or lower, and you may pay {1}.  If you do, vanish that SIGNI.</text>
 			<prop>
 				<colors>R</colors>
 				<manacost>1</manacost>
