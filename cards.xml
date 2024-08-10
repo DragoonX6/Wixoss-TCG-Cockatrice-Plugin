@@ -16487,7 +16487,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash.  Target 1 SI
 			</prop>
 		</card>
 		<card>
-			<name>Morinaka Kazaki, Code 2434</name>
+			<name>Kazaki Morinaka, Code 2434</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-014[EN].jpg">WDi-02</set>
 			<tablerow>2</tablerow>
 			<text>[Enter] {W}{B}: Target 1 "Code 2434 Era Otogibara" in your trash, and put it onto your field.
@@ -16510,7 +16510,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash.  Target 1 SI
 			<name>Era Otogibara, Code 2434</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-015[EN].jpg">WDi-02</set>
 			<tablerow>2</tablerow>
-			<text>[Enter] {2}: If there is a "Code 2434 Morinaka Kazaki" on your field, target 1 SIGNI with [Guard] in your trash, and add it to your hand.
+			<text>[Enter] {2}: If there is a "Kazaki Morina, Code 2434" on your field, target 1 SIGNI with [Guard] in your trash, and add it to your hand.
 [Enter] {1}{W}{W}: If there are 3 or more Virtual SIGNI on your field, target 1 SIGNI on your opponent's field, and return it to its owner's hand.</text>
 			<prop>
 				<colors>W</colors>
@@ -148676,7 +148676,7 @@ Your LRIG gets "[Auto]:  At the beginning of your Attack Phase, declare 1 number
 			</prop>
 		</card>
 		<card>
-			<name>Morinaka Kazaki</name>
+			<name>Kazaki Morinaka</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK23/SPK23-19.jpg">SPK23</set>
 			<tablerow>0</tablerow>
 			<text/>
