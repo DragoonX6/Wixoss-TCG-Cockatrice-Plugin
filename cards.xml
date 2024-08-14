@@ -105927,7 +105927,7 @@ If that SIGNI is a "Hanayo//Fesonne, Natural Pyroxene", it also awakens.
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-058[EN].jpg">WXDi-P14</set>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, if there is a level 3 awakened SIGNI on your field, draw 1 card.
-[Action] [1/Turn] Pay 2 Coins:  Target 1 SIGNI on your opponent's field and 1 SIGNI in your opponent's trash, and switch their locations.  The [Enter] abilities of the SIGNI put onto the field this way do not activate.
+[Action] [1/Turn] Pay 2 Coins:  Target 1 SIGNI on your opponent's field and 1 SIGNI in your opponent's trash. If they have the same level switch their positions.  The [Enter] abilities of the SIGNI put onto the field this way do not activate.
 
 [Life Burst]:  Target 1 SIGNI on your opponent's field, and down and freeze it.  Draw 1 card.</text>
 			<prop>
