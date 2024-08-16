@@ -77062,7 +77062,7 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		</card>
 		<card>
 			<name>Himawari Honma, Code 2434 (alt)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Code%202434%20Himawari%20Honma%20(alt).jpg">WXDi-P00</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-042S[EN].jpg">WXDi-P00</set>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  At the beginning of your opponent's Main Phase, reveal the top card of your deck.  If it is a Virtual SIGNI, this SIGNI gets [Shadow] until end of turn.
 [Action] [1/Turn] {W}: Look at the top 3 cards of your deck.  Reveal 1 SIGNI from them and add it to your hand, put 1 card from them on top of your deck, and put the rest on the bottom of your deck in any order.</text>
