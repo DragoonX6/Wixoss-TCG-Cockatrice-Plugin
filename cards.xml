@@ -2206,7 +2206,7 @@ Draw 2 cards.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Midoriko, Combat Girl</name>
+			<name>Midoriko, Battle Girl</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD04/WD04-005.jpg">WD04</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD04/WD04-005.jpg">PR</set>
 			<tablerow>0</tablerow>
@@ -9717,7 +9717,7 @@ Down 1 SIGNI on your opponent's field.  If you bet, down 2 SIGNI on your opponen
 			</prop>
 		</card>
 		<card>
-			<name>Midoriko, Golden Combat Girl Type Three</name>
+			<name>Midoriko, Golden Battle Girl Type Three</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WDK03/WDK03-002.jpg">WDK03</set>
 			<tablerow>0</tablerow>
 			<text>[Enter] {G}: Get 1 Coin.</text>
@@ -12499,8 +12499,8 @@ Add all cards from your Ener Zone to your hand.  Then if there are 5 or more car
 			</prop>
 		</card>
 		<card>
-			<name>Midoriko, Type Key Combat Girl</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Midoriko%2C%20Type%20Key%20Combat%20Girl.jpg">WDK08</set>
+			<name>Midoriko, Type Key Battle Girl</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Midoriko%2C%20Type%20Key%Battle%20Girl.jpg">WDK08</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  All SIGNI on your field get +1000 power.
 [Enter]:  Reveal the top 3 cards of your deck.  Put all green cards revealed this way into your Ener Zone, then put the rest into the trash.
@@ -20752,7 +20752,7 @@ Cancel the effect of 1 SPELL being played.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Midoriko, Bridal Combat Girl Type Two</name>
+			<name>Midoriko, Bridal Battle Girl Type Two</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-021.jpg">WX01</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  All green SIGNI on your field get +1000 power.</text>
@@ -20767,7 +20767,7 @@ Cancel the effect of 1 SPELL being played.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Midoriko, Dancing Combat Girl Type One</name>
+			<name>Midoriko, Dancing Battle Girl Type One</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-022.jpg">WX01</set>
 			<tablerow>0</tablerow>
 			<text>[Enter] Discard 1 card from your hand: Draw 1 card.</text>
@@ -55902,7 +55902,7 @@ Vanish 1 SIGNI on your opponent's field.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Midoriko, Dancing Combat Girl Type One</name>
+			<name>Midoriko, Dancing Battle Girl Type One</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK01/WXK01-024.jpg">WXK01</set>
 			<tablerow>0</tablerow>
 			<text>[Enter] Discard 1 card from your hand: Draw 1 card.</text>
@@ -138738,7 +138738,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Midoriko, Battle Girl (SP04)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Midoriko%2C%20Combat%20Girl%20(SP04).png">SP04</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Midoriko%2C%20Battle%20Girl%20(SP04).png">SP04</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -146904,7 +146904,7 @@ Choose one.  Repeat this effect a number of times equal to your LRIG's level.  (
 		</card>
 		<card>
 			<name>Midoriko, Battle Girl (SPK13)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Midoriko%2C%20Combat%20Girl%20(SPK13).jpg">SPK13</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Midoriko%2C%20Battle%20Girl%20(SPK13).jpg">SPK13</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -166808,8 +166808,8 @@ Choose one:
 			</prop>
 		</card>
 		<card>
-			<name>Hanayo and Midoriko, Combat Girls Type Flame</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanayo%20and%20Midoriko%2C%20Combat%20Girls%20Type%20Flame.jpg">PR</set>
+			<name>Hanayo and Midoriko, Battle Girls Type Flame</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanayo%20and%20Midoriko%2C%20Battle%20Girls%20Type%20Flame.jpg">PR</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  Your LRIG gets the follwing ability:
 "[Action] [Attack Phase] {Exceed 2}: Vanish 1 SIGNI on your opponent's field, then [Ener Charge 1]."
