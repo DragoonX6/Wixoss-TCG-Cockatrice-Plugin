@@ -154981,8 +154981,8 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 		</card>
 		<card>
 			<name>Hirana, a Step Towards the Top (SPDi18)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hirana%2C%20a%20Step%20Towards%20the%20Top%20(SPDi18).jpg">SPDi18</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-094S[EN].jpg">WXDi-P05</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hirana%2C%20a%20Step%20Towards%20the%20Top%20(SPDi18).jpg">SPDi18</set>
 			<tablerow>0</tablerow>
 			<text>[Team Constant]:  Attacking SIGNI on your field get +2000 power.
 [Enter]:  Draw 1 card, then [Ener Charge 1].
