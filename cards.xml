@@ -152148,6 +152148,7 @@ Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of tu
 		</card>
 		<card>
 			<name>Hirana, a Step Towards the Top (SPDi01S)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P289P[EN].jpg">PREN</set>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hirana%2C%20a%20Step%20Towards%20the%20Top%20(SPDi01S).jpg">SPDi01S</set>
 			<tablerow>0</tablerow>
 			<text>[Team Constant]:  Attacking SIGNI on your field get +2000 power.
