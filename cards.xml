@@ -168079,7 +168079,7 @@ Look at the top 8 cards of your deck.  Add 1 card from among them to your hand, 
 		</card>
 		<card>
 			<name>OPEN DREAM LAND!</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Open%20Dream%20Land.jpg">PR</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/OPEN%20DREAM%20LAND!.jpg">PR</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 
