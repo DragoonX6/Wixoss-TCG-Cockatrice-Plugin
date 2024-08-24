@@ -18938,7 +18938,7 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 		<!-- WDi-09 -->
 		<card>
 			<name>Hirana, a Step Towards the Top (WDi-09)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D09-H04.jpg">WDi-09</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D09-H04[EN].jpg">WDi-09</set>
 			<tablerow>0</tablerow>
 			<text>[Team Constant]:  Attacking SIGNI on your field get +2000 power.
 [Enter]:  Draw 1 card, then [Ener Charge 1].
@@ -18958,7 +18958,7 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 		</card>
 		<card>
 			<name>Lancelot, Crimson General (WDi-09)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D09-H27.jpg">WDi-09</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D09-H27[EN].jpg">WDi-09</set>
 			<tablerow>2</tablerow>
 			<text>[Enter] {1}: Target 1 SIGNI on your opponent's field with 5000 power or lower, and vanish it.</text>
 			<prop>
@@ -18976,7 +18976,7 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 		</card>
 		<card>
 			<name>Code Piruluk xi (WDi-09)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D09-P04.jpg">WDi-09</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D09-P04[EN].jpg">WDi-09</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  At the beginning of your Attack Phase, If there are at least 3 more cards in your hand than in your opponent's hand, target 1 SIGNI on your opponent's field, and it gets -3000 power until end of turn.  If there are at least 6 more cards in your hand than in your opponent's hand, that SIGNI gets -6000 power instead.
 [Enter]:  Draw 2 cards.
@@ -18996,7 +18996,7 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 		</card>
 		<card>
 			<name>RANDOM DRAIN (WDi-09)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D09-P27.jpg">WDi-09</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D09-P27[EN].jpg">WDi-09</set>
 			<tablerow>3</tablerow>
 			<text>Draw 1 card.  Your opponent discards 1 card from their hand.  If there are 3 LRIGs on your field and they are on [UCHU NO HAJIMARI], instead draw 1 card, then discard 1 card from your opponent's hand at random.
 			
@@ -167721,8 +167721,8 @@ Choose one. If you paid an additional {Exceed 4}, choose two instead.  Your cent
 		</card>
 		<card>
 			<name>Blazing Monochrome</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di017A.jpg">PR</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P09-085A[EN].jpg">WXDi-P09</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di017A.jpg">PR</set>
 			<tablerow>3</tablerow>
 			<related>Rebellion: Encore!</related>
 			<text>Draw two cards. Then, if you there are 1 or less cards in your Life Cloth, flip this card in your Check Zone and put "Rebellion: Encore!" onto your field.</text>
@@ -167740,8 +167740,8 @@ Choose one. If you paid an additional {Exceed 4}, choose two instead.  Your cent
 		</card>
 		<card>
 			<name>Rebellion: Encore!</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di017B.jpg">PR</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P09-085B[EN].jpg">WXDi-P09</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di017B.jpg">PR</set>
 			<tablerow>2</tablerow>
 			<related>Blazing Monochrome</related>
 			<text>(While this card is anywhere other than on your field, it is "Blazing Monochrome". When this card leaves your field, it returns to being "Blazing Monochrome".)
