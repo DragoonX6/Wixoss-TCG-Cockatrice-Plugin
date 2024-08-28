@@ -91051,7 +91051,7 @@ Draw 1 card.  All SIGNI on your opponent's field lose their abilities until end 
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Target up to 2 SIGNI in your Ener Zone, and add them to your hand.
 [Action] [1/Turn] {0}:  Target 1 card in your Ener Zone, and it gets [Multi Ener] until end of turn.
-[Action] [1/Game] {0}:  Return all SIGNI on your opponent's field with the highest power it their owners' hands.</text>
+[Action] [1/Game] {0}:  Return all SIGNI on your opponent's field with the highest power to their owners' hands.</text>
 			<prop>
 				<colors>G</colors>
 				<manacost>3 - GG</manacost>
@@ -91071,7 +91071,7 @@ Draw 1 card.  All SIGNI on your opponent's field lose their abilities until end 
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Target up to 2 SIGNI in your Ener Zone, and add them to your hand.
 [Action] [1/Turn] {0}:  Target 1 card in your Ener Zone, and it gets [Multi Ener] until end of turn.
-[Action] [1/Game] {0}:  Return all SIGNI on your opponent's field with the highest power it their owners' hands.</text>
+[Action] [1/Game] {0}:  Return all SIGNI on your opponent's field with the highest power to their owners' hands.</text>
 			<prop>
 				<colors>G</colors>
 				<manacost>3 - GG</manacost>
@@ -169663,7 +169663,7 @@ Crush 1 card in your opponent's Life Cloth.  Then target 1 SIGNI without [Guard]
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Target up to 2 SIGNI in your Ener Zone, and add them to your hand.
 [Action] [1/Turn] {0}:  Target 1 card in your Ener Zone, and it gets [Multi Ener] until end of turn.
-[Action] [1/Game] {0}:  Return all SIGNI on your opponent's field with the highest power it their owners' hands.</text>
+[Action] [1/Game] {0}:  Return all SIGNI on your opponent's field with the highest power to their owners' hands.</text>
 			<prop>
 				<colors>G</colors>
 				<manacost>3 - GG</manacost>
