@@ -24486,7 +24486,7 @@ Add up to 2 SIGNI that share a color with your LRIG from your trash to your hand
 			</prop>
 		</card>
 		<card>
-			<name>Banishing</name>
+			<name>Vanishing </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX04/WX04-028.jpg">WX04</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -31105,7 +31105,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<name>Ranerge, Original Spear</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX09/WX09-022.jpg">WX09</set>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  While there is a card with "Energe" in its card name in your trash, when this SIGNI vanishes a SIGNI on your opponent's field, it is put into the trash instead of the Ener Zone.  (Banishing by battle is included)
+			<text>[Constant]:  While there is a card with "Energe" in its card name in your trash, when this SIGNI vanishes a SIGNI on your opponent's field, it is put into the trash instead of the Ener Zone.  (Vanishing by battle is included)
 [Action] {W}{R}{U}{G}{B}: Vanish 2 SIGNI on your opponent's field.  </text>
 			<prop>
 				<colors>W</colors>
@@ -66560,7 +66560,7 @@ Put 1 SIGNI on each player's field into their owners' check zones, then put them
 			<name>Arachne, Natural Planet Queen</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK07/WXK07-031.jpg">WXK07</set>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  During your Attack Phase, Cosmos SIGNI on your field cannot leave the field by your opponent's card effects except by banishing them.
+			<text>[Constant]:  During your Attack Phase, Cosmos SIGNI on your field cannot leave the field by your opponent's card effects except by vanishing them.
 [Auto]:  When this SIGNI attacks, you may reveal cards from the top of your deck until you reveal 4 level 4 Cosmos SIGNI.  If you revealed 4 level 4 SIGNI this way, remove 1 SIGNI Zone on your opponent's field from the game until end of turn, then put all your revealed cards into the trash.
 
 [Life Burst]:  Add 1 Cosmos SIGNI from your trash to your hand or put it onto the field.</text>
@@ -67731,7 +67731,7 @@ Choose one.  If you have a Ril or Mel LRIG, choose up to two instead:
 			<name>Arachne, Natural Planet Queen (alt)</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Arachne%2C%20Natural%20Star%20Princess%20(alt).jpg">WXK07</set>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  During your Attack Phase, Cosmos SIGNI on your field cannot leave the field by your opponent's card effects except by banishing them.
+			<text>[Constant]:  During your Attack Phase, Cosmos SIGNI on your field cannot leave the field by your opponent's card effects except by vanishing them.
 [Auto]:  When this SIGNI attacks, you may reveal cards from the top of your deck until you reveal 4 level 4 Cosmos SIGNI.  If you revealed 4 level 4 SIGNI this way, remove 1 SIGNI Zone on your opponent's field from the game until end of turn, then put all your revealed cards into the trash.
 
 [Life Burst]:  Add 1 Cosmos SIGNI from your trash to your hand or put it onto the field.</text>
@@ -74150,7 +74150,7 @@ Choose up to four:
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK11/WXK11-026.jpg">WXK11</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  Cards in your opponent's trash lose their colors and classes during your turn.
-[Constant]:  This card cannot leave the field by your opponent's card effects except by banish.
+[Constant]:  This card cannot leave the field by your opponent's card effects except by vanish.
 [Auto]:  When this SIGNI is put from your hand or deck into the trash by a card effect during your turn, you may put this SIGNI from your trash onto your field.
 
 [Life Burst]:  Put the top 3 cards of your deck into the trash, then add 1 card of your opponent's choice from your trash to your Life Cloth.</text>
@@ -87623,7 +87623,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			<name>Aphrodite, Crimson Angel</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P06-055[EN].jpg">WXDi-P06</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  At the beginning of your Attack Phase, target 1 SIGNI on your opponent's field with 12000 power or lower, and you may reveal 6 Angel SIGNI from your hand and pay {1}{R}.  If you do, banish that SIGNI.</text>
+			<text>[Auto]:  At the beginning of your Attack Phase, target 1 SIGNI on your opponent's field with 12000 power or lower, and you may reveal 6 Angel SIGNI from your hand and pay {1}{R}.  If you do, vanish that SIGNI.</text>
 			<prop>
 				<colors>R</colors>
 				<manacost>2</manacost>
