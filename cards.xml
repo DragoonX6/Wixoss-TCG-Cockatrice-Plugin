@@ -168625,7 +168625,7 @@ She can cut through anything, her drill can penetrate anything, and she can brea
 			<name>Midsummer Tlet</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Midsummer%20Tlet.jpg">WXP02</set>
 			<tablerow>0</tablerow>
-			<text>[Enter] Read this card's flavor text:  1 SIGNI on the field becomes profit.  (Nothing in particular happens to a SIGNI in profit.)
+			<text>[Enter] Read this card's flavor text:  1 SIGNI on the field becomes in profit.  (Nothing in particular happens to a SIGNI in profit.)
 [Constant]:  Each player keeps smiling.
 
 Flavor Text:
@@ -168668,7 +168668,7 @@ I got it-. ~Tlet~
 			
 This ARTS costs {P} less to use while you are wearing at least 1 piece of pink clothing.  Then you may put 2 cards from your Profit Zone on the bottom of your deck any number of times, and this ARTS costs an additional {P} less to use for each time you do this.
 
-1 SIGNI on the field becomes profit, then vanish all SIGNI in profit on your opponent's field.
+1 SIGNI on the field becomes in profit, then vanish all SIGNI in profit on your opponent's field.
 
 Flavor Text:
 I made a mistake and thought Romail was a watermelon! ~Tlet~
@@ -168798,7 +168798,7 @@ A once-in-a-lifetime special festival. ~Romail~
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Tlet%2C%20Celestial%20Maiden%20of%20the%20Pool.jpg">WXP02</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  When this SIGNI attacks, you may pay {P}{P}.  If you do, vanish 1 SIGNI in profit on the field in front of this SIGNI.
-[Action] {Down}:  [Profit Charge 1}
+[Action] {Down}:  [Profit Charge 1]
 
 [Life Burst]:  Choose one:
 - Vanish 1 SIGNI on your opponent's field.
@@ -169113,7 +169113,7 @@ Choose one.  If you bet, choose up to two instead.  You may choose the same effe
 - [Ener Charge 1]
 - [Zabuton Charge 1]
 - Vanish 1 SIGNI on your field.  If you do, draw 1 card.
-- Take over and confuse 1 SIGNI on your field.  If a target would be chosen for that SIGNI's effects, you choose the targets.
+- Take over and confuse 1 SIGNI on your opponent's field.  If a target would be chosen for that SIGNI's effects, you choose the targets.
 
 Flavor Text:
 I am not ashamed of my loincloth-. ~Tlet~
@@ -169155,7 +169155,7 @@ This is my Western room! ~Tlet~
 			<tablerow>0</tablerow>
 			<text>Use Timing [When a SIGNI on your field is about to be vanished Cut-In]
 			
-You flicker any number of koban to your opponent.  For each koban your opponent accepts with an evil smile, draw 1 card or put 1 card from the top of your deck into the Ener Zone.  If your accepted any koban at all, 1 SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn.  If your opponent did not accept any koban, you get {K} for each koban you flickered.
+You flicker any number of koban to your opponent.  For each koban your opponent accepts with an evil smile, draw 1 card or put 1 card from the top of your deck into the Ener Zone.  If your opponent accepted any koban at all, 1 SIGNI on your field gets "This SIGNI cannot be vanished." until end of turn.  If your opponent did not accept any koban, you get {K} for each koban you flickered.
 
 Flavor Text:
 You too are evil (ゝڡ・) ~Tlet~
