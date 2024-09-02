@@ -13092,7 +13092,7 @@ Exclude 3 cards in your opponent's trash from the game.  If those cards share a 
 		</card>
 		<card>
 			<name>Hanare, Mourner of Fascination</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Dark%20One%20of%20Fascination.jpg">WDK10</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Mourner%20of%20Fascination.jpg">WDK10</set>
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Put the top 3 cards of your deck into the trash, then add 1 black SIGNI from your trash to your hand.  If you have a Urith LRIG, add 1 more black SIGNI from your trash to your hand.
 [Action] [1/Turn] Discard 1 card from your hand: Choose 1 SIGNI Zone on your opponent's field.  Until your next turn, SIGNI on that SIGNI Zone get -2000 multiplied by its level.</text>
@@ -14046,7 +14046,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Sashe, Holy Support Emissary</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%2C%20Holy%20Support%20Messenger.jpg">WDK13</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%2C%20Holy%20Support%20Emissary.jpg">WDK13</set>
 			<tablerow>0</tablerow>
 			<text>[Action] [1/Turn] {1}: Search your deck for 1 SIGNI that shares a color with your LRIG, reveal it, then add it to your hand.  Shuffle your deck.
 [Action] [Attack Phase] Put this KEY from your field into the LRIG Trash: Search your deck for 1 Cosmos SIGNI and put it onto your field.  Shuffle your deck.  That SIGNI's [Enter] abilities do not activate.</text>
@@ -17997,7 +17997,7 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 		</card>
 		<card>
 			<name>Salvage the Future</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/salvage%20the%20future.jpg">WDi-06</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Salvage%20the%20Future.jpg">WDi-06</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -18836,7 +18836,7 @@ Draw 3 cards, then discard 2 cards from your hand.
 		</card>
 		<card>
 			<name>Go to the Top! (WDi-08)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/GO%20TO%20the%20TOP!%20(WDi-08).jpg">WDi-08</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Go%20to%20the%20Top!%20(WDi-08).jpg">WDi-08</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -18857,8 +18857,8 @@ Search your deck for 1 SIGNI, reveal it and add it to your hand.  Shuffle your d
 		</card>
 		<card>
 			<name>Burning Curiosity (WDi-08)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/burning%20curiosity%20(WDi-08).jpg">WDi-08</set>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/burning%20curiosity%20(WDi-08).jpg">WDi-09</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Burning%20Curiosity%20(WDi-08).jpg">WDi-08</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Burning%20Curiosity%20(WDi-08).jpg">WDi-09</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -35314,7 +35314,7 @@ Your opponent discards 3 cards from their hand.
 		</card>
 		<card>
 			<name>Ann (WX11)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Anne%20(WX11).jpeg">WX11</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Ann%20(WX11).jpeg">WX11</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -53173,7 +53173,7 @@ Choose up to four.  This ARTS costs {2} more to use for each option chosen beyon
 		</card>
 		<card>
 			<name>Sashe Pleine, Eternal Emissary (WX21)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%20Pleine%2C%20Eternal%20Messenger%20(WX21).jpg">WX21</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%20Pleine%2C%20Eternal%20Emissary%20(WX21).jpg">WX21</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  When a RESONA enters your field, put the top card of your deck into your Ener Zone.
 [Action] {Down}: Search your deck for 1 Cosmos SIGNI, reveal it, then add it to your hand.  Shuffle your deck.  </text>
@@ -53253,7 +53253,7 @@ Choose up to four.  This ARTS costs {2} more to use for each option chosen beyon
 		</card>
 		<card>
 			<name>Hanare, Mourner of Salvation (WX21)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Dark%20One%20of%20Salvation%20(WX21).jpg">WX21</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Mourner%20of%20Salvation%20%28WX21%29.jpg">WX21</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  At the beginning of your Main Phase, put 1 level 3 or lower Venom SIGNI from your trash onto your field.  At the end of the turn, put that SIGNI from the field into the trash.
 [Action] {Exceed 1}: Up 1 Venom SIGNI on your field.
@@ -54658,7 +54658,7 @@ Choose up to two:
 		</card>
 		<card>
 			<name>Hanare, Mourner of True Happiness (alt)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Dark%20One%20of%20True%20Happiness%20(alt).jpg">WX22</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Mourner%20of%20True%20Happiness%20%28alt%29.jpg">WX22</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  SIGNI on the field cannot get +(plus) power by your opponent's card effects.
 [Auto] [1/Turn]:  When a SIGNI on your opponent's field's power becomes 0 or lower, either put the top card of your deck into your Ener Zone or draw 1 card.
@@ -54801,7 +54801,7 @@ Choose one.  If you have a Tawil or Umr LRIG, choose two instead:
 		</card>
 		<card>
 			<name>Ann=Fourth, Eradicator of All the More (alt)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Anne%3DFourth%2C%20Eradicator%20of%20All%20the%20More%20(alt).jpg">WX22</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Ann%3DFourth%2C%20Eradicator%20of%20All%20the%20More%20%28alt%29.jpg">WX22</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  At the beginning of your Attack Phase, if there is a green and a white Beauty SIGNI on your field, return 1 SIGNI on your opponent's field to its owner's hand.
 [Auto] [1/Turn]:  When a Beauty SIGNI is vanished, put the top card of your deck into your Ener Zone.
@@ -57966,7 +57966,7 @@ When your opponent attacks with a SIGNI or LRIG, if it is the first or second at
 		</card>
 		<card>
 			<name>Ann, Pilgrimage of Friendship</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Anne%2C%20Pilgrimage%20of%20Friendship.jpg">WXK02</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Ann%2C%20Pilgrimage%20of%20Friendship.jpg">WXK02</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  All cards in your Ener Zone get [Multi Ener].
 [Action] [Attack Phase] {W}{R}{U}{G}{B}, Put this KEY from your field into the LRIG Trash: Put 1 SIGNI on your opponent's field into the trash, then draw 2 cards.  You cannot be damaged by your opponent's LRIG this turn.</text>
@@ -59351,7 +59351,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Ann, Pilgrimage of Friendship (alt)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Anne%2C%20Pilgrimage%20of%20Friendship%20(alt).jpg">WXK02</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Ann%2C%20Pilgrimage%20of%20Friendship%20%28alt%29.jpg">WXK02</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  All cards in your Ener Zone get [Multi Ener].
 [Action] [Attack Phase] {W}{R}{U}{G}{B}, Put this KEY from your field into the LRIG Trash: Put 1 SIGNI on your opponent's field into the trash, then draw 2 cards.  You cannot be damaged by your opponent's LRIG this turn.</text>
@@ -62742,7 +62742,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 		</card>
 		<card>
 			<name>Mugen (WXK04)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Eternal%20(WXK04).jpg">WXK04</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Mugen%20(WXK04).jpg">WXK04</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -62964,7 +62964,7 @@ Choose one.  If you bet, choose up to two instead:
 		</card>
 		<card>
 			<name>Sashe, Purity Emissary</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%2C%20Purity%20Messenger.jpg">WXK05</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%2C%20Purity%20Emissary.jpg">WXK05</set>
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Your opponent may only have up to 2 SIGNI on their field at a time this turn.  (If your opponent has more than 2 SIGNI on their field, they put SIGNI on their field into trash until they have 2 SIGNI left.)
 [Action] [Attack Phase] Put this KEY from your field into the LRIG Trash: When a SIGNI on your opponent's field attacks this turn, your opponent puts that SIGNI into the trash unless they pay {1} for each time a SIGNI attacked this turn.</text>
@@ -64289,7 +64289,7 @@ Shuffle all cards in your trash into your deck.  Draw 3 cards, [Ener Charge 4], 
 		</card>
 		<card>
 			<name>Sashe, Purity Emissary (alt)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%2C%20Purity%20Messenger%20(alt).jpg">WXK05</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%2C%20Purity%20Emissary%20(alt).jpg">WXK05</set>
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Your opponent may only have up to 2 SIGNI on their field at a time this turn.  (If your opponent has more than 2 SIGNI on their field, they put SIGNI on their field into trash until they have 2 SIGNI left.)
 [Action] [Attack Phase] Put this KEY from your field into the LRIG Trash: When a SIGNI on your opponent's field attacks this turn, your opponent puts that SIGNI into the trash unless they pay {1} for each time a SIGNI attacked this turn.</text>
@@ -69573,7 +69573,7 @@ Vanish 1 level 3 or lower SIGNI on your opponent's field.  Then you may put 1 KE
 		</card>
 		<card>
 			<name>Zeroigona, Crossbow Tome (alt)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Zeroigona%2C%20Crossbow%20Book%20(alt).jpg">WXK08</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Zeroigona%2C%20Crossbow%20Tome%20%28alt%29.jpg">WXK08</set>
 			<tablerow>2</tablerow>
 			<text>(Rise) 1 Weapon SIGNI (This SIGNI cannot be put onto the field unless you put it on top of 1 Weapon SIGNI on your field.)
 			
@@ -71749,7 +71749,7 @@ Your LRIG gets the following abilities until end of turn:
 		</card>
 		<card>
 			<name>Sashe and Myu, Midnight Sun Emissaries</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%20and%20Myu%2C%20Midnight%20Sun%20Messengers.jpg">WXK10</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%20and%20Myu%2C%20Midnight%20Sun%20Emissaries.jpg">WXK10</set>
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Look at the top 3 cards of your deck, then return them to the top of your deck in any order.
 [Action] [1/Turn] {0}: Declare 1 number, then reveal the top card of your deck.  If it is a SIGNI whose level is equal to the declared number, add it to your hand.
@@ -77120,8 +77120,8 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 		<!-- WXDi-P01 -->
 		<card>
 			<name>Go to the Top!</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/GO%20TO%20the%20TOP!.jpg">WXDi-P01</set>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/GO%20TO%20the%20TOP!.jpg">WDi-09</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Go%20to%20the%20Top!.jpg">WXDi-P01</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Go%20to%20the%20Top!.jpg">WDi-09</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -77186,7 +77186,7 @@ Target up to 2 frozen SIGNI on your opponent's field, and put them into the tras
 		</card>
 		<card>
 			<name>Code: LO</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/code%20LO.jpg">WXDi-P01</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Code%20LO.jpg">WXDi-P01</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -77207,7 +77207,7 @@ If there are 0 cards in your Life Cloth, shuffle your deck, then add the top car
 		</card>
 		<card>
 			<name>Nightmare■Step</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/NIGHTMARE%E2%96%A0STEP.jpg">WXDi-P01</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Nightmare%E2%96%A0Step.jpg">WXDi-P01</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -80789,7 +80789,7 @@ Look at the top 5 cards of your deck.  Reveal up to 1 SIGNI without [Guard] from
 		</card>
 		<card>
 			<name>Burning Curiosity</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/burning%20curiosity.jpg">WXDi-P03</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Burning%20Curiosity.jpg">WXDi-P03</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -88590,7 +88590,7 @@ Your center LRIG gets the following ability for the rest of this game (Your cent
 		</card>
 		<card>
 			<name>Take Off! WIXOSS Robo!</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Take%20Off!%20WIXOSS%20Robo.jpg">WXDi-P07</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Take%20Off!%20WIXOSS%20Robo!.jpg">WXDi-P07</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -97038,7 +97038,7 @@ Target 1 SIGNI on your opponent's field with 2000 power or lower, and vanish it.
 		<!-- WXDi-P11 -->
 		<card>
 			<name>Fly Me to the Future</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/FLY%20ME%20TO%20THE%20FUTURE.jpg">WXDi-P11</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Fly%20Me%20to%20the%20Future.jpg">WXDi-P11</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -97111,7 +97111,7 @@ You get the following abiliity for the rest of this game:
 		</card>
 		<card>
 			<name>Wish In</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/WISH%20IN.jpg">WXDi-P11</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Wish%20In.jpg">WXDi-P11</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -100596,7 +100596,7 @@ If there are 3 (Dissona) SIGNI on your field, vanish all SIGNI on your opponent'
 		</card>
 		<card>
 			<name>Lancer in the Dark</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/LANCER%20IN%20THE%20DARK.jpg">WXDi-P12</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Lancer%20in%20the%20Dark.jpg">WXDi-P12</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -100636,7 +100636,7 @@ Target up to 2 (Dissona) SIGNI in your trash, and add them to your hand.</text>
 		</card>
 		<card>
 			<name>Unknown Memory</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/UNKNOWN%20MEMORY.jpg">WXDi-P12</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Unknown%20Memory.jpg">WXDi-P12</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 
@@ -102620,7 +102620,7 @@ If you did not grow your center LRIG this turn, discard all card from your hand 
 		</card>
 		<card>
 			<name>Unknown</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/UNKNOWN.jpg">WXDi-P13</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Unknown.jpg">WXDi-P13</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
@@ -102661,7 +102661,7 @@ Flip this card in your Check Zone, then put this "UKNOWN-CODE-RU-" onto your fie
 		</card>
 		<card>
 			<name>Brain Hearts</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/BRAIN%20HEARTS.jpg">WXDi-P13</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Brain%20Hearts.jpg">WXDi-P13</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 
@@ -138705,7 +138705,7 @@ Choose one:
 		</card>
 		<card>
 			<name>Hanayo, Zero (SP04)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanayo%20Zero%20(SP04).png">SP04</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanayo%2C%20Zero%20%28SP04%29.png">SP04</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -139541,7 +139541,7 @@ Return all SIGNI with power equal to the highest power among them to their owner
 		</card>
 		<card>
 			<name>Ann, Marvel of Miracles (SP08)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Anne%2C%20Locus%20of%20Miracles%20(SP08).png">SP08</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Ann%2C%20Locus%20of%20Miracles%20%28SP08%29.png">SP08</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -147566,7 +147566,7 @@ Vanish exactly 3 SIGNI on the field with the same power as each other.</text>
 		</card>
 		<card>
 			<name>Hanare, Mourner of Fascination (SPK16)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Dark%20One%20of%20Fascination%20(SPK16).png">SPK16</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Mourner%20of%20Fascination%20%28SPK16%29.png">SPK16</set>
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Put the top 3 cards of your deck into the trash, then add 1 black SIGNI from your trash to your hand.  If you have a Urith LRIG, add 1 more black SIGNI from your trash to your hand.
 [Action] [1/Turn] Discard 1 card from your hand: Choose 1 SIGNI Zone on your opponent's field.  Until your next turn, SIGNI on that SIGNI Zone get -2000 multiplied by its level.</text>
@@ -151656,7 +151656,7 @@ Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of tu
 		<!-- SPDi01S -->
 		<card>
 			<name>At =Noll=, the Opened Gate (SPDi01S)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/At%3DNoll%2C%20Spinning%20Door%20(SPDi01S).jpg">SPDi01S</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/At%20%3DNoll%3D%2C%20the%20Opened%20Gate%20%28SPDi01S%29.jpg">SPDi01S</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -151692,7 +151692,7 @@ Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of tu
 		</card>
 		<card>
 			<name>Rei, On the Wings of Tomorrow (SPDi01S)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Rei%2C%20Soaring%20Towards%20Tomorrow%20(SPDi01S).jpg">SPDi01S</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Rei%2C%20On%20the%20Wings%20of%20Tomorrow%20%28SPDi01S%29.jpg">SPDi01S</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -151710,7 +151710,7 @@ Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of tu
 		</card>
 		<card>
 			<name>DJ LOVIT - Standby (SPDi01S)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/DJ.LOVIT%20-%20standby%20(SPDi01S).jpg">SPDi01S</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/DJ%20LOVIT%20-%20Standby%20%28SPDi01S%29.jpg">SPDi01S</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -151728,7 +151728,7 @@ Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of tu
 		</card>
 		<card>
 			<name>Newborn Dr. Tamago (SPDi01S)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Dr.%20Tamago%2C%20Newborn%20(SPDi01S).jpg">SPDi01S</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Newborn%20Dr.%20Tamago%20%28SPDi01S%29.jpg">SPDi01S</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -151911,7 +151911,7 @@ Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of tu
 		</card>
 		<card>
 			<name>Hanayo, Zero (SPDi01S)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanayo%20Zero%20(SPDi01S).jpg">SPDi01S</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanayo, Zero (SPDi01S).jpg">SPDi01S</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -151929,7 +151929,7 @@ Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of tu
 		</card>
 		<card>
 			<name>Ann, Marvel of Miracles (SPDi01S)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Anne%2C%20Locus%20of%20Miracles%20(SPDi01S).jpg">SPDi01S</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Ann%2C%20Locus%20of%20Miracles%20%28SPDi01S%29.jpg">SPDi01S</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -152188,7 +152188,7 @@ Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of tu
 		</card>
 		<card>
 			<name>Sashe Motier, Midnight Sun Emissary (SPDi01S)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%20Moiti%C3%A9%2C%20Midnight%20Sun%20Messenger%20(SPDi01S).jpg">SPDi01S</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%20Motier%20Midnight%20Sun%20Emissary%20(SPDi01S).jpg">SPDi01S</set>
 			<tablerow>0</tablerow>
 			<text>[Auto] [1/Turn]:  When a white SIGNI enters your field during your turn, target 1 SIGNI on your opponent's field, and you may pay {1}{W}{W}.  If you do, return that targeted SIGNI to its owner's hand.
 [Action] [1/Turn] {0}:  Target 1 white SIGNI on your field, and it gets +2000 power until the end of your opponent's next End Phase.
@@ -162460,7 +162460,7 @@ Choose up to two:
 		</card>
 		<card>
 			<name>Sashe Nouvelle, Eternal Emissary (PR226)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%20Nouvelle%2C%20Eternal%20Messenger%20(PR226).jpg">PR</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Sashe%20Nouvelle%2C%20Eternal%20Emissary%20(PR226).jpg">PR</set>
 			<tablerow>0</tablerow>
 			<text></text>
 			<prop>
