@@ -104498,6 +104498,24 @@ Draw 2 cards, then discard 1 card from your hand.  Then, target 1 level 1 SIGNI 
 				<format-english>legal</format-english>
 			</prop>
 		</card>
+		<card>
+			<name>Virus (WXDi-P13)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P13-TK01B[EN].jpg">token</set>
+			<tablerow>0</tablerow>
+			<text>SIGNI Zones cannot have more than 1 [Virus] on them at a time.
+A SIGNI on any SIGNI Zone with a [Virus] on it is treated as an infected SIGNI.</text>
+			<prop>
+				<colors>C</colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type/>
+				<token>1</token>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
 		<!-- WXDi-P14 -->
 		<card>
 			<name>Splash Field</name>
