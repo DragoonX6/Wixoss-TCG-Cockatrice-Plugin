@@ -168091,7 +168091,7 @@ If the shared color is blue, draw 3 cards, then your opponent discards 3 cards f
 If the shared color is green, put all SIGNI on your opponent's field into the Ener Zone.
 If the shared color is black, your opponent puts the top 20 cards of their deck into the trash.</text>
 			<prop>
-				<colors></colors>
+				<colors>C</colors>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
 				<type>ARTS - (DS)</type>
