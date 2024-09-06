@@ -16782,9 +16782,45 @@ Target 1 SIGNI on your opponent's field, and put it into the trash.  Target 1 SI
 			</prop>
 		</card>
 		<card>
+			<name>Hirana, a Dream of a Miracle (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D03-002S[EN].jpg">WDi-03</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>R</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Hirana [No Limit] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Hirana, a Glimpse of the Truth</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D03-003[EN].jpg">WDi-03</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXDi/WXDi-D09-H03.jpg">WDi-09</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>R</colors>
+				<manacost>2 - R</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Hirana [No Limit] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Hirana, a Glimpse of the Truth (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D03-003S[EN].jpg">WDi-03</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -16945,6 +16981,29 @@ Target 1 SIGNI on your opponent's field, and put it into the trash.  Target 1 SI
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
+(Use Condition) [Team]:  [No Limit] and all LRIGS on your field are level 1 or higher.
+
+Target 1 level 3 LRIG on your field, and it gets the following abilities until end of turn:
+"[Constant]:  [Double Crush]
+[Constant]:  Your opponent cannot [Guard]."</text>
+			<prop>
+				<colors>RWU</colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>PIECE - (DS)</type>
+				<maintype>PIECE</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Glory Grow (alt)</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Glory%20Grow%20%28alt%29.jpg">WDi-03</set>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
 (Use Condition) [Team]:  [No Limit] and all LRIGS on your field are level 1 or higher.
 
 Target 1 level 3 LRIG on your field, and it gets the following abilities until end of turn:
