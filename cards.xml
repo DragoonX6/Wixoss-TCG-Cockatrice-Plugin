@@ -83682,8 +83682,47 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 			</prop>
 		</card>
 		<card>
+			<name>Akino, Bound for Tomorrow (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-007D[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  At the beginning of your Main Phase, target 1 SIGNI on your opponent's field, and you may put 1 white SIGNI on your field into the trash and pay {W}.  If you do, return that SIGNI to its owner's hand.
+[Enter]:  Draw 1 card, then [Ener Charge 1].
+[Action] [1/Game] {0}: SIGNI on your field get [Shadow] during your opponent's next Main Phase and Attack Phase.  (Also affects SIGNI put onto the field after this ability was used.)</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>3 - WW</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Akino [No Limit] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>MC LION - 3rd Verse-ALT</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-008[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Auto] [1/Turn]:  When this LRIG attacks, shuffle your deck, then reveal the top card of your deck.  If it is a level 1 SIGNI, draw 1 card.  If it is a SIGNI with [Guard], crush 1 card in your opponent's Life Cloth.
+[Action] [1/Game] {0}: Target 1 SIGNI on your opponent's field, and return it to its owner's hand.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>3 - WW</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - LION [Card Jockey] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>MC LION - 3rd Verse-ALT (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-008D[EN].jpg">WXDi-P04</set>
 			<tablerow>0</tablerow>
 			<text>[Auto] [1/Turn]:  When this LRIG attacks, shuffle your deck, then reveal the top card of your deck.  If it is a level 1 SIGNI, draw 1 card.  If it is a SIGNI with [Guard], crush 1 card in your opponent's Life Cloth.
 [Action] [1/Game] {0}: Target 1 SIGNI on your opponent's field, and return it to its owner's hand.</text>
@@ -83720,8 +83759,49 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 			</prop>
 		</card>
 		<card>
+			<name>Nonstop! Dr. Tamago (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-009S[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  When this LRIG attacks, you may put 1 card from under this LRIG into the LRIG Trash.  If you do, discard 1 card from your opponent's hand at random.
+[Auto]:  When your opponent discards a card from their hand by your effects, target 1 SIGNI on your opponent's field, and freeze it.
+[Action] [1/Game] {0}: Each player draws 2 cards.  Discard 2 cards from your opponent's hand at random.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>3 - UU</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Madoka, Vogue 3-EX</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-010[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, each player draws 1 card, then discards 1 card from their hand.
+[Enter]:  Choose one:
+- Your opponent discards 2 cards from their hand.
+- Target 1 LRIG on your opponent's field, and freeze it.
+[Action] [1/Game] {0}: If there are at least 3 more cards in your hand than in your opponent's, target 1 SIGNI on your opponent's field, and put it on the bottom of its owner's deck.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>3 - UU</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Madoka [DIAGRAM] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Madoka, Vogue 3-EX (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-010D[EN].jpg">WXDi-P04</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  At the beginning of your Attack Phase, each player draws 1 card, then discards 1 card from their hand.
 [Enter]:  Choose one:
@@ -83762,6 +83842,26 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 			</prop>
 		</card>
 		<card>
+			<name>Deus One (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-011S[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Constant]:  The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]:  When this SIGNI attacks, target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn."
+
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Deus [Deus Ex Machina] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Deus Two</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-012[EN].jpg">WXDi-P04</set>
 			<tablerow>0</tablerow>
@@ -83782,8 +83882,48 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 			</prop>
 		</card>
 		<card>
+			<name>Deus Two (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-012S[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Constant]:  The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]:  When this SIGNI attacks, target 1 SIGNI on your opponent's field, and it gets -10000 power until end of turn."
+
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>2 - B</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Deus [Deus Ex Machina] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Deus Three</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-013[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Constant]:  SIGNI that are in front of SIGNI on your field with [Soul]s attached to them get -2000 power during your turn.
+[Action] {0}: Target 1 SIGNI on your field, and attach 1 card from under this LRIG to it as a [Soul].
+[Action] [1/Game] {Exceed 3}: Target up to 3 SIGNI without [Guard] in your trash, and exclude 1 PIECE in your LRIG Deck from the game.  If you do, add those SIGNI to your hand.</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>3 - BB</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Deus [Deus Ex Machina] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Deus Three (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-013D[EN].jpg">WXDi-P04</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  SIGNI that are in front of SIGNI on your field with [Soul]s attached to them get -2000 power during your turn.
 [Action] {0}: Target 1 SIGNI on your field, and attach 1 card from under this LRIG to it as a [Soul].
@@ -83822,6 +83962,26 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 			</prop>
 		</card>
 		<card>
+			<name>Machina One (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-014S[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Constant]:  The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]:  When this SIGNI attacks, target 1 SIGNI without [Guard] in your trash, and add it to your hand."
+
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Machina [Deus Ex Machina] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Machina Two</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-015[EN].jpg">WXDi-P04</set>
 			<tablerow>0</tablerow>
@@ -83842,8 +84002,48 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 			</prop>
 		</card>
 		<card>
+			<name>Machina Two (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-015S[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Constant]:  The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]:  When this SIGNI attacks, target 1 level 2 or lower SIGNI on your opponent's field, and vanish it."
+
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>2 - B</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Machina [Deus Ex Machina] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Machina Three</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-016[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  When a SIGNI on your field with a [Soul] attached to it attacks, put the top 2 cards of your opponent's deck into the trash.
+[Action] {0}: Attach 1 card from under this LRIG to 1 SIGNI on your field as a [Soul].
+[Action] [1/Game] {Exceed 3}: Target up to 2 SIGNI on your opponent's field, and exclude 1 PIECE in your LRIG Deck from the game.  If you do, those SIGNI get -12000 power until end of turn.</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>3 - BB</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Machina [Deus Ex Machina] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Machina Three (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-016D[EN].jpg">WXDi-P04</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  When a SIGNI on your field with a [Soul] attached to it attacks, put the top 2 cards of your opponent's deck into the trash.
 [Action] {0}: Attach 1 card from under this LRIG to 1 SIGNI on your field as a [Soul].
@@ -84097,6 +84297,26 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 		<card>
 			<name>At =Tre=, the Opened Door</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-028[EN].jpg">WXDi-P04</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, target 1 SIGNI on your field, and it gets +5000 power until end of turn.
+[Enter]:  Target up to 2 SIGNI without [Guard] in your trash, and put them into your Ener Zone.
+[Action] [1/Game] Put 7 SIGNI that do not share a common class from your Ener Zone into the trash: Put all SIGNI on your opponent's field into the Ener Zone, then [Ener Charge 2].</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3 - GG</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - At [Ancient Surprise] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>At =Tre=, the Opened Door (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-028D[EN].jpg">WXDi-P04</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  At the beginning of your Attack Phase, target 1 SIGNI on your field, and it gets +5000 power until end of turn.
 [Enter]:  Target up to 2 SIGNI without [Guard] in your trash, and put them into your Ener Zone.
