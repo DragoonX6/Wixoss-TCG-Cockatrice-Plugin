@@ -15693,6 +15693,24 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>At =Ett=, the Opened Gate (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-002S[EN].jpg">WDi-01</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>G</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - At [Ancient Surprise] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>At =Två=, the Opened Gate</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-003[EN].jpg">WDi-01</set>
 			<tablerow>0</tablerow>
@@ -15711,8 +15729,45 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>At =Två=, the Opened Gate (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-003S[EN].jpg">WDi-01</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>G</colors>
+				<manacost>2 - G</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - At [Ancient Surprise] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>At =Tre=, the Opened Gate</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-004[EN].jpg">WDi-01</set>
+			<tablerow>0</tablerow>
+			<text>[Team Action] [1/Turn] {0}: Target 3 SIGNI on your field with different classes, and they get +3000 power until end of turn.
+[Enter]:  [Ener Charge 2].  If the cards put into your Ener Zone this way do not share a class, [Ener Charge 1].</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3 - GG</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - At [Ancient Surprise] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>At =Tre=, the Opened Gate (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D01-004S[EN].jpg">WDi-01</set>
 			<tablerow>0</tablerow>
 			<text>[Team Action] [1/Turn] {0}: Target 3 SIGNI on your field with different classes, and they get +3000 power until end of turn.
 [Enter]:  [Ener Charge 2].  If the cards put into your Ener Zone this way do not share a class, [Ener Charge 1].</text>
@@ -15849,6 +15904,27 @@ Choose one:
 		<card>
 			<name>Harmonic Call</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Harmonic%20Call.jpg">WDi-01</set>
+			<tablerow>0</tablerow>
+			<text>Use Timing: [Main Phase]
+
+(Use Condition) [Team]:  [Ancient Surprise] and all LRIGs on your field are level 1 or higher.
+
+Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 level 3 SIGNI onto your field, then put the rest on the bottom of your deck in a random order.  Until end of turn, 1 target level 1 SIGNI gets [Assassin], 1 target level 2 SIGNI gets [Double Crush], and 1 target level 3 SIGNI gets [Lancer].  </text>
+			<prop>
+				<colors>GRU</colors>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<type>PIECE - (DS)</type>
+				<maintype>PIECE</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Harmonic Call (alt)</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Harmonic%20Call%20%28alt%29.jpg">WDi-01</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing: [Main Phase]
 
