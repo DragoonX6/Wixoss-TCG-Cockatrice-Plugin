@@ -16225,6 +16225,24 @@ Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 lev
 			</prop>
 		</card>
 		<card>
+			<name>[Center] Lize, Level 2 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP01-058S[EN].jpg">WXDi-CP01</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>W</colors>
+				<manacost>2 - W</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Lize [Sanbaka] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>[Center] Lize, Level 3</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D02-004[EN].jpg">WDi-02</set>
 			<tablerow>0</tablerow>
