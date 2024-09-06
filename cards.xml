@@ -17632,8 +17632,44 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			</prop>
 		</card>
 		<card>
+			<name>Let's Go! Dr. Tamago (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-002S[EN].jpg">WDi-05</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>You Can Do It! Dr. Tamago</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-003[EN].jpg">WDi-05</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>2 - U</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>You Can Do It! Dr. Tamago (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D05-003S[EN].jpg">WDi-05</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -17792,6 +17828,30 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
+(Use Condition) [Team]:  [UCHU NO HAJIMARI] and all LRIGs on your field are level 1 or higher.
+
+Target 1 level 3 LRIG on your field, and it gets the following ability until end of turn:
+"[Auto]:  When this LRIG attacks, choose one from the following.  Perform this effect a number of times equal to the level of your opponent's center LRIG (You may choose the same option multiple times.):
+= Draw 1 card.
+= Discard 1 card from your opponent's hand at random."</text>
+			<prop>
+				<colors>UWG</colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>PIECE - (DS)</type>
+				<maintype>PIECE</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Hanpanai★Destruction (alt)</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanpanai%E2%98%85Destruction%20%28alt%29.jpg">WDi-05</set>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
 (Use Condition) [Team]:  [UCHU NO HAJIMARI] and all LRIGs on your field are level 1 or higher.
 
 Target 1 level 3 LRIG on your field, and it gets the following ability until end of turn:
