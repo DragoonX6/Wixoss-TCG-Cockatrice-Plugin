@@ -85755,8 +85755,53 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Eternal♡Immortal Kyurukyurun☆ (alt)</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Eternal%E2%99%A1Immortal%20Kyurukyurun%E2%98%86%20%28alt%29.jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase] [Attack Phase]
+
+(Use Condition): All LRIGs on your field are on [Kyurukyurun☆].
+
+When your opponent uses a PIECE with (Use Condition) [Team], this PIECE may be used as though it has cut-in timing.
+
+Choose one:
+- Target 1 PIECE with (Use Condition) [Team] your opponent is using, and cancel its effects.  Exclude that PIECE from the game.
+- Draw 1 card, then [Ener Charge 1].</text>
+			<prop>
+				<colors>UWB</colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>PIECE - (DS)</type>
+				<maintype>PIECE</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Hirana, A Step Towards the Glimmer</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-007[EN].jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text>[Constant]:  SIGNI on your center SIGNI Zone get +3000 power during your turn.
+[Enter]:  Draw 1 card, then [Ener Charge 1].
+[Action] [1/Game] {0}: Draw 2 cards, then [Ener Charge 2].  At the end of your turn, put all cards in your Ener Zone and your hand into the trash.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>3 - RR</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Hirana [No Limit] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Hirana, A Step Towards the Glimmer (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-007D[EN].jpg">WXDi-P05</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  SIGNI on your center SIGNI Zone get +3000 power during your turn.
 [Enter]:  Draw 1 card, then [Ener Charge 1].
@@ -85795,6 +85840,26 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>VJ WOLF - 3rd Verse-ALT (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-008D[EN].jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text>[Enter]:  [Ener Charge 1] for each level among Assist LRIGs on your field.
+[Action] [1/Turn] {1}{G}{G}: Target 1 SIGNI on your opponent's field with 10000 power or higher, and vanish it.
+[Action] [1/Game] {0}: All cards in your Ener Zone get [Multi Ener] this turn.</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3 - GG</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - WOLF [Card Jockey] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Nova, Destiny Imperial</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-009[EN].jpg">WXDi-P05</set>
 			<tablerow>0</tablerow>
@@ -85815,8 +85880,48 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Nova, Destiny Imperial (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-009D[EN].jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  When this LRIG attacks, target 1 card in your trash, and you may put 1 card from under this LRIG into the LRIG Trash.  If you do, put the targeted card on the top of your deck.
+[Enter]:  Look at the top 3 cards of your deck.  Put up to 1 of those cards on the top of your deck, then put the rest on the bottom of your deck in any order.
+[Action] [1/Game] {0}: Target 1 white SIGNI in your trash, and put it on the top of your deck.  At the end of your turn, draw 2 cards.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>3 - WW</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Muzica, Vogue 3-EX</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-010[EN].jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text>[Auto] [1/Turn]:  When another LRIG on your field grows during your turn, target 1 SIGNI on your opponent's field, and it gets -5000 power until end of turn.
+[Auto] [1/Turn]:  When another LRIG on your field grows during your opponent's turn, target 1 black SIGNI in your trash, and add it to your hand.
+[Action] [1/Game] {1}: Target 1 Assist LRIG on your field that does not have Use Timing [Attack Phase] and does not have grow cost {0}, and return it to the LRIG Deck.</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>3 - BB</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Muzica [DIAGRAM] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Muzica, Vogue 3-EX (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-010D[EN].jpg">WXDi-P05</set>
 			<tablerow>0</tablerow>
 			<text>[Auto] [1/Turn]:  When another LRIG on your field grows during your turn, target 1 SIGNI on your opponent's field, and it gets -5000 power until end of turn.
 [Auto] [1/Turn]:  When another LRIG on your field grows during your opponent's turn, target 1 black SIGNI in your trash, and add it to your hand.
@@ -85871,6 +85976,24 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Mikomiko☆One (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-012S[EN].jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Mikomiko [Kyurukyurun☆] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Mikomiko☆Two</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-013[EN].jpg">WXDi-P05</set>
 			<tablerow>0</tablerow>
@@ -85889,8 +86012,46 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Mikomiko☆Two (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-013S[EN].jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>2 - U</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Mikomiko [Kyurukyurun☆] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Mikomiko☆Threee</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-014[EN].jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  When this LRIG attacks, if there are 3 or less cards in your opponent's hand, draw 1 card.  If there are 4 or more cards in your opponent's hand, your opponent discards 1 card from their hand.
+[Enter]:  Draw 2 cards unless your opponent discards 1 card from their hand.
+[Action] [1/Game] {0}: Look at your opponent's hand, then choose 1 card in it and exclude it from the game.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>3 - UU</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Mikomiko [Kyurukyurun☆] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Mikomiko☆Threee (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-014D[EN].jpg">WXDi-P05</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  When this LRIG attacks, if there are 3 or less cards in your opponent's hand, draw 1 card.  If there are 4 or more cards in your opponent's hand, your opponent discards 1 card from their hand.
 [Enter]:  Draw 2 cards unless your opponent discards 1 card from their hand.
@@ -85928,8 +86089,47 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Tawil =Tre=, Heralding One (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-015D[EN].jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, if there are 3 or more red SIGNI on your field, [Ener Charge 1].
+[Action] [1/Game] {0}: Look at the top 6 cards of your deck, then put 3 of those cards into a face up and the rest into a facedown pile.  Your opponent chooses 1 of those piles and puts it into the trash, then you add the remaining pile to your hand.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>3 - RR</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Tawil [Ancient Surprise] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Umr =Tre=, Key to Uproar</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-016[EN].jpg">WXDi-P05</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, you may target 2 SIGNI on your field, and switch their positions.
+[Enter]:  Look at your opponent's hand.  Choose 1 card from among them and put it on the bottom of its owner's deck.
+[Action] [1/Game] {0}: Put 1 "Hastalyk" on 1 SIGNI Zone on your opponent's field.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>3 - UU</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Umr [Ancient Surprise] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Umr =Tre=, Key to Uproar (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P05-016D[EN].jpg">WXDi-P05</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  At the beginning of your Attack Phase, you may target 2 SIGNI on your field, and switch their positions.
 [Enter]:  Look at your opponent's hand.  Choose 1 card from among them and put it on the bottom of its owner's deck.
