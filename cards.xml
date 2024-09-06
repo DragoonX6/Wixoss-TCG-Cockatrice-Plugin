@@ -16400,6 +16400,24 @@ Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 lev
 			</prop>
 		</card>
 		<card>
+			<name>[Center] Ange, Level 1 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-029S[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>W</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Ange [Sanbaka] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>[Center] Ange, Level 2</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-030[EN].jpg">WDi-02</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-303[EN].jpg">WXDi-P00</set>
@@ -16420,9 +16438,46 @@ Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 lev
 			</prop>
 		</card>
 		<card>
+			<name>[Center] Ange, Level 2 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-030S[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>W</colors>
+				<manacost>2 - W</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Ange [Sanbaka] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>[Center] Ange, Level 3</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-031[EN].jpg">WDi-02</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-031[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text>[Team Action] [1/Turn] {0}: Target 1 Virtual SIGNI on your field, and it gets +4000 power until end of turn.
+[Enter]:  Target 1 SIGNI on your opponent's field, and return it to its owner's hand.  Draw 1 card.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>3 - WW</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Ange [Sanbaka] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>[Center] Ange, Level 3 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-031S[EN].jpg">WXDi-P00</set>
 			<tablerow>0</tablerow>
 			<text>[Team Action] [1/Turn] {0}: Target 1 Virtual SIGNI on your field, and it gets +4000 power until end of turn.
 [Enter]:  Target 1 SIGNI on your opponent's field, and return it to its owner's hand.  Draw 1 card.</text>
@@ -16460,6 +16515,24 @@ Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 lev
 			</prop>
 		</card>
 		<card>
+			<name>[Center] Toko, Level 1 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-035S[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>B</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Toko [Sanbaka] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>[Center] Toko, Level 2</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-036[EN].jpg">WDi-02</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-036[EN].jpg">WXDi-P00</set>
@@ -16480,9 +16553,46 @@ Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 lev
 			</prop>
 		</card>
 		<card>
+			<name>[Center] Toko, Level 2 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-036S[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>B</colors>
+				<manacost>2 - B</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Toko [Sanbaka] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>[Center] Toko, Level 3</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-037[EN].jpg">WDi-02</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-037[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text>[Team Action] [1/Turn] Put 1 Virtual SIGNI from your field into the trash: Target 1 SIGNI on your opponent's field, and it gets -3000 power until end of turn.
+[Enter]:  Target up to 2 Virtual SIGNI in your trash, and add them to your hand.</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>3 - BB</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Toko [Sanbaka] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>[Center] Toko, Level 3 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-037S[EN].jpg">WXDi-P00</set>
 			<tablerow>0</tablerow>
 			<text>[Team Action] [1/Turn] Put 1 Virtual SIGNI from your field into the trash: Target 1 SIGNI on your opponent's field, and it gets -3000 power until end of turn.
 [Enter]:  Target up to 2 Virtual SIGNI in your trash, and add them to your hand.</text>
@@ -75880,6 +75990,24 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			</prop>
 		</card>
 		<card>
+			<name>Tawil =Ett=, Awakened One (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-007S[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>R</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Tawil [Ancient Surprise] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Tawil =Två=, Awakened One</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-008[EN].jpg">WXDi-P00</set>
 			<tablerow>0</tablerow>
@@ -75898,8 +76026,45 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			</prop>
 		</card>
 		<card>
+			<name>Tawil =Två=, Awakened One (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-008S[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>R</colors>
+				<manacost>2 - R</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Tawil [Ancient Surprise] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Tawil =Tre=, Awakened One</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-009[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text>[Team Action] [1/Turn] Discard 2 red cards from your hand: Draw 2 cards.
+[Enter]:  Look at the top 3 cards of your deck.  Reveal any number of red cards from them, add them to your hand, and put the rest on the bottom of your deck in any order.  </text>
+			<prop>
+				<colors>R</colors>
+				<manacost>3 - RR</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Tawil [Ancient Surprise] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Tawil =Tre=, Awakened One (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-009S[EN].jpg">WXDi-P00</set>
 			<tablerow>0</tablerow>
 			<text>[Team Action] [1/Turn] Discard 2 red cards from your hand: Draw 2 cards.
 [Enter]:  Look at the top 3 cards of your deck.  Reveal any number of red cards from them, add them to your hand, and put the rest on the bottom of your deck in any order.  </text>
@@ -75996,6 +76161,24 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			</prop>
 		</card>
 		<card>
+			<name>Umr =Ett=, Key to Salvation (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-013S[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Umr [Ancient Surprise] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Umr =Två=, Key to Salvation</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-014[EN].jpg">WXDi-P00</set>
 			<tablerow>0</tablerow>
@@ -76014,8 +76197,45 @@ Look at your opponent's hand, then choose 1 card in it without [Guard] and disca
 			</prop>
 		</card>
 		<card>
+			<name>Umr =Två=, Key to Salvation (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-014S[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>2 - U</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Umr [Ancient Surprise] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Umr =Tre=, Key to Salvation</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-015[EN].jpg">WXDi-P00</set>
+			<tablerow>0</tablerow>
+			<text>[Team Action] [1/Turn] {0}: Target 1 SIGNI on your field, and move it to a different SIGNI Zone.
+[Enter]:  Delete 1 SIGNI Zone on your opponent's field until end of turn.  (Put all cards that were on that SIGNI Zone into the trash, and players cannot put SIGNI on that SIGNI Zone.)</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>3 - UU</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Umr [Ancient Surprise] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Umr =Tre=, Key to Salvation (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P00-015S[EN].jpg">WXDi-P00</set>
 			<tablerow>0</tablerow>
 			<text>[Team Action] [1/Turn] {0}: Target 1 SIGNI on your field, and move it to a different SIGNI Zone.
 [Enter]:  Delete 1 SIGNI Zone on your opponent's field until end of turn.  (Put all cards that were on that SIGNI Zone into the trash, and players cannot put SIGNI on that SIGNI Zone.)</text>
