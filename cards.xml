@@ -81657,6 +81657,24 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 			</prop>
 		</card>
 		<card>
+			<name>Rei, On the Wings of Truth (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-007S[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Rei [No Limit] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Rei, On the Wings of Azure Sky</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-008[EN].jpg">WXDi-P03</set>
 			<tablerow>0</tablerow>
@@ -81675,8 +81693,46 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 			</prop>
 		</card>
 		<card>
+			<name>Rei, On the Wings of Azure Sky (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-008S[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>2 - U</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Rei [No Limit] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Rei, On the Wings of Supremacy</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-009[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text>[Team Auto]:  At the beginning of your Attack Phase, if you drew 2 or more cards by effects this turn, target 1 level 2 or lower SIGNI, and you may pay {1}{U}.  If you do, put that SIGNI on the bottom of its owner's deck.
+[Enter]:  Draw 1 card, then [Ener Charge 1].
+[Action] [1/Game] Down 2 upped level 2 LRIGs on your field: Discard all cards from your hand.  Your opponent discards cards from their hand equal to the number of blue cards you discarded this way.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>3 - UU</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Rei [No Limit] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Rei, On the Wings of Supremacy (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-009S[EN].jpg">WXDi-P03</set>
 			<tablerow>0</tablerow>
 			<text>[Team Auto]:  At the beginning of your Attack Phase, if you drew 2 or more cards by effects this turn, target 1 level 2 or lower SIGNI, and you may pay {1}{U}.  If you do, put that SIGNI on the bottom of its owner's deck.
 [Enter]:  Draw 1 card, then [Ener Charge 1].
@@ -81799,6 +81855,24 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 			</prop>
 		</card>
 		<card>
+			<name>VJ WOLF - 1st Verse (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-014S[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>G</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - WOLF [Card Jockey] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>VJ WOLF - 2nd Verse</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-015[EN].jpg">WXDi-P03</set>
 			<tablerow>0</tablerow>
@@ -81817,8 +81891,46 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 			</prop>
 		</card>
 		<card>
+			<name>VJ WOLF - 2nd Verse (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-015S[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>G</colors>
+				<manacost>2 - G</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - WOLF [Card Jockey] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>VJ WOLF - 3rd Verse</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-016[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text>[Team Action] {Down}: [Ener Charge 2]
+[Enter]:  This LRIG gets "[Constant]:  SIGNI on your field get +5000 power." until end of turn.
+[Action] [1/Game] {0}: This LRIG gets "[Action] Down 1 upped level 2 LRIG on your field: Up this LRIG." until end of turn.</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3 - GG</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - WOLF [Card Jockey] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>VJ WOLF - 3rd Verse (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-016S[EN].jpg">WXDi-P03</set>
 			<tablerow>0</tablerow>
 			<text>[Team Action] {Down}: [Ener Charge 2]
 [Enter]:  This LRIG gets "[Constant]:  SIGNI on your field get +5000 power." until end of turn.
@@ -81939,8 +82051,44 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 			</prop>
 		</card>
 		<card>
-			<name>Nova, Fighting Spirits</name>
+			<name>Nova, Prelude (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-021S[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>W</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Nova, Fighting Spirit</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-022[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>W</colors>
+				<manacost>2 - W</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Nova, Fighting Spirit (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-022S[EN].jpg">WXDi-P03</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -81959,6 +82107,26 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 		<card>
 			<name>Nova, Skyfeather</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-023[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text>[Team Enter]:  Target 1 SIGNI on your opponent's field, and return it to its owner's hand.
+[Auto]:  When this LRIG attacks, if there are 5 or more cards under this LRIG, target 1 SIGNI with [Guard] in your trash, and put it on top of your deck.  Then if there are 7 or more cards under this LRIG, draw 1 card.
+[Action] [1/Game] {0}: Put all cards from under your other LRIGs under this LRIG.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>3 - WW</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Nova [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Nova, Skyfeather (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-023S[EN].jpg">WXDi-P03</set>
 			<tablerow>0</tablerow>
 			<text>[Team Enter]:  Target 1 SIGNI on your opponent's field, and return it to its owner's hand.
 [Auto]:  When this LRIG attacks, if there are 5 or more cards under this LRIG, target 1 SIGNI with [Guard] in your trash, and put it on top of your deck.  Then if there are 7 or more cards under this LRIG, draw 1 card.
@@ -82081,6 +82249,24 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 			</prop>
 		</card>
 		<card>
+			<name>Sanga, Vogue 1 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-028S[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>G</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Sanga [DIAGRAM] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Sanga, Vogue 2</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-029[EN].jpg">WXDi-P03</set>
 			<tablerow>0</tablerow>
@@ -82099,8 +82285,46 @@ Target 1 SIGNI on your opponent's field, and vanish it.  If you paid {Exceed 4},
 			</prop>
 		</card>
 		<card>
+			<name>Sanga, Vogue 2 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-029S[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>G</colors>
+				<manacost>2 - G</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Sanga [DIAGRAM] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Sanga, Vogue 3</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-030[EN].jpg">WXDi-P03</set>
+			<tablerow>0</tablerow>
+			<text>[Team Auto]:  At the beginning of your Attack Phase, if there are blue, black, and green SIGNI on your field, [Ener Charge 1], then target up to 1 SIGNI in your Ener Zone, and add it to your hand.
+[Enter]:  [Ener Charge 2]
+[Action] [1/Game] {0}: Target 1 level 1 [DIAGRAM] LRIG on your field, and return it to your LRIG Deck.</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3 - GG</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Sanga [DIAGRAM] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Sanga, Vogue 3 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-030S[EN].jpg">WXDi-P03</set>
 			<tablerow>0</tablerow>
 			<text>[Team Auto]:  At the beginning of your Attack Phase, if there are blue, black, and green SIGNI on your field, [Ener Charge 1], then target up to 1 SIGNI in your Ener Zone, and add it to your hand.
 [Enter]:  [Ener Charge 2]
