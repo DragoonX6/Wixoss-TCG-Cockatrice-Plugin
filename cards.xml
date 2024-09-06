@@ -18547,6 +18547,26 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 			</prop>
 		</card>
 		<card>
+			<name>Ex One (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D07-002S[EN].jpg">WDi-07</set>
+			<tablerow>0</tablerow>
+			<text>[Constant]:  The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]:  When this SIGNI attacks, draw 1 card or [Ener Charge 1]."
+
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Ex [Deus Ex Machina] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Ex Two</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D07-003[EN].jpg">WDi-07</set>
 			<tablerow>0</tablerow>
@@ -18567,8 +18587,48 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 			</prop>
 		</card>
 		<card>
+			<name>Ex Two (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D07-003S[EN].jpg">WDi-07</set>
+			<tablerow>0</tablerow>
+			<text>[Constant]:  The SIGNI that has this card attached to it as a [Soul] gets "[Auto] [1/Turn]:  When this SIGNI attacks, target 1 SIGNI on your opponent's field with 12000 power or lower, and vanish it."
+
+([Soul]s are attached to 1 SIGNI at a time, and are put into the LRIG Trash when the SIGNI they're attached to leave the field.)</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>2 - R</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Ex [Deus Ex Machina] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Ex Three</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D07-004[EN].jpg">WDi-07</set>
+			<tablerow>0</tablerow>
+			<text>[Auto]:  When a [Soul] is attached to a SIGNI on your field, you may discard 1 card from your hand.  If you do, draw 1 card.
+[Action] {0}: Target 1 SIGNI on your field, and attach 1 card from under this LRIG to it as a [Soul].
+[Action] [1/Game] {Exceed 3}: Target up to 2 red SIGNI on your field, and exclude 1 PIECE in your LRIG Deck from the game.  If you do, those SIGNI get [Assassin] until end of turn.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>3 - RR</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Ex [Deus Ex Machina] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Ex Three (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D07-004S[EN].jpg">WDi-07</set>
 			<tablerow>0</tablerow>
 			<text>[Auto]:  When a [Soul] is attached to a SIGNI on your field, you may discard 1 card from your hand.  If you do, draw 1 card.
 [Action] {0}: Target 1 SIGNI on your field, and attach 1 card from under this LRIG to it as a [Soul].
