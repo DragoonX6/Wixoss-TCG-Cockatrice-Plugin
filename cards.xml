@@ -85109,7 +85109,7 @@ Put 2 Demon SIGNI on your field into the trash.  If you do, you get the followin
 		</card>
 		<card>
 			<name>Team Palette, Azure Beauty (alt)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Team%20Palette%2C%20Azure%20Beauty%20(alt).jpg">WXDi-P04</set>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P04-067PS[EN].jpg">WXDi-P04</set>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  At the beginning of your Attack Phase, each player draws 1 card.</text>
 			<prop>
