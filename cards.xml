@@ -17198,8 +17198,44 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			</prop>
 		</card>
 		<card>
+			<name>MC LION - 1st Verse (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D04-002S[EN].jpg">WDi-04</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>W</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - LION [Card Jockey] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>MC LION - 2nd Verse</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D04-003[EN].jpg">WDi-04</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>W</colors>
+				<manacost>2 - W</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - LION [Card Jockey] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>MC LION - 2nd Verse (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D04-003S[EN].jpg">WDi-04</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
