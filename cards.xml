@@ -79703,6 +79703,24 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Akino, Bound for Dreams (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-007S[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>W</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Akino [No Limit] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Akino, Bound for Brightness</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-008[EN].jpg">WXDi-P02</set>
 			<tablerow>0</tablerow>
@@ -79721,8 +79739,46 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Akino, Bound for Brightness (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-008S[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>W</colors>
+				<manacost>2 - W</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Akino [No Limit] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Akino, Bound for Valor</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-009[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text>[Team Constant]:  The SIGNI on your center SIGNI Zone gets +2000 power during your opponent's turn.
+[Enter]:  Draw 1 card, then [Ener Charge 1].
+[Action] [1/Game] Down 2 upped level 2 LRIGs on your field: Target up to 2 SIGNI on your opponent's field, and you may discard 1 card with [Guard] from your hand.  If you do, return those SIGNI to their owners' hands.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>3 - WW</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Akino [No Limit] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Akino, Bound for Valor (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-009S[EN].jpg">WXDi-P02</set>
 			<tablerow>0</tablerow>
 			<text>[Team Constant]:  The SIGNI on your center SIGNI Zone gets +2000 power during your opponent's turn.
 [Enter]:  Draw 1 card, then [Ener Charge 1].
@@ -79842,6 +79898,24 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>DJ LOVIT - 1st Verse (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-014S[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>R</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - LOVIT [Card Jockey] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>DJ LOVIT - 2nd Verse</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-015[EN].jpg">WXDi-P02</set>
 			<tablerow>0</tablerow>
@@ -79860,8 +79934,46 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>DJ LOVIT - 2nd Verse (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-015S[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>R</colors>
+				<manacost>2 - R</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - LOVIT [Card Jockey] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>DJ LOVIT - 3rd Verse</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-016[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text>[Team Action] {Down}: If your opponent's center LRIG is level 3 or higher, target 1 card in your opponent's Ener Zone, and put it into the trash.
+[Enter]:  Target 1 SIGNI on your opponent's field, and vanish it.
+[Action] [1/Game] {0}: This LRIG gets "[Action] Down 1 upped level 2 LRIG on your field: Up this LRIG." until end of turn.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>3 - RR</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - LOVIT [Card Jockey] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>DJ LOVIT - 3rd Verse (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-016S[EN].jpg">WXDi-P02</set>
 			<tablerow>0</tablerow>
 			<text>[Team Action] {Down}: If your opponent's center LRIG is level 3 or higher, target 1 card in your opponent's Ener Zone, and put it into the trash.
 [Enter]:  Target 1 SIGNI on your opponent's field, and vanish it.
@@ -79980,6 +80092,24 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Bang, Singer of Melodies (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-021S[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>G</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Bang, Front and Center</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-022[EN].jpg">WXDi-P02</set>
 			<tablerow>0</tablerow>
@@ -79998,8 +80128,46 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Bang, Front and Center (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-022S[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>G</colors>
+				<manacost>2 - G</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Bang, Read to Fight</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-023[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text>[Team Enter]:  Your opponent puts 1 SIGNI from their field into the Ener Zone.
+[Auto]:  At the beginning of your Attack Phase, if there are 5 or more cards under this LRIG, [Ener Charge 1].  If there are 7 or more, target 1 level 3 green SIGNI on your field, and it gets [Lancer] until end of turn.
+[Action] [1/Game] {0}: Put all cards from under all other LRIGs on your field under this LRIG.  </text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3 - GG</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Bang [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Bang, Read to Fight (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-023S[EN].jpg">WXDi-P02</set>
 			<tablerow>0</tablerow>
 			<text>[Team Enter]:  Your opponent puts 1 SIGNI from their field into the Ener Zone.
 [Auto]:  At the beginning of your Attack Phase, if there are 5 or more cards under this LRIG, [Ener Charge 1].  If there are 7 or more, target 1 level 3 green SIGNI on your field, and it gets [Lancer] until end of turn.
@@ -80118,6 +80286,24 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Madoka, Vogue 1 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-028S[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Madoka [DIAGRAM] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Madoka, Vogue 2</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-029[EN].jpg">WXDi-P02</set>
 			<tablerow>0</tablerow>
@@ -80136,8 +80322,46 @@ Choose one:
 			</prop>
 		</card>
 		<card>
+			<name>Madoka, Vogue 2 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-029S[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>U</colors>
+				<manacost>2 - U</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Madoka [DIAGRAM] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Madoka, Vogue 3</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-030[EN].jpg">WXDi-P02</set>
+			<tablerow>0</tablerow>
+			<text>[Team Auto] [1/Turn]:  When your opponent discards 1 card from their hand by your card's effect, draw 1 card or [Ener Charge 1].
+[Enter]:  Draw 3 cards, then discard 2 cards from your hand.
+[Action] [1/Game] {0}: Target 1 level 1 [DIAGRAM] LRIG on your field, and return it to your LRIG Deck.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>3 - UU</manacost>
+				<cmc>3</cmc>
+				<type>LRIG - Madoka [DIAGRAM] (DS)</type>
+				<loyalty>6</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Madoka, Vogue 3 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P02-030S[EN].jpg">WXDi-P02</set>
 			<tablerow>0</tablerow>
 			<text>[Team Auto] [1/Turn]:  When your opponent discards 1 card from their hand by your card's effect, draw 1 card or [Ener Charge 1].
 [Enter]:  Draw 3 cards, then discard 2 cards from your hand.
