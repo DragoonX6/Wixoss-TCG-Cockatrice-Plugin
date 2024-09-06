@@ -18086,8 +18086,44 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 			</prop>
 		</card>
 		<card>
+			<name>Muzica, Vogue 1 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D06-002S[EN].jpg">WDi-06</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>B</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Muzica [DIAGRAM] (DS)</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Muzica, Vogue 2</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D06-003[EN].jpg">WDi-06</set>
+			<tablerow>0</tablerow>
+			<text/>
+			<prop>
+				<colors>B</colors>
+				<manacost>2 - B</manacost>
+				<cmc>2</cmc>
+				<type>LRIG - Muzica [DIAGRAM] (DS)</type>
+				<loyalty>5</loyalty>
+				<maintype>LRIG</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Muzica, Vogue 2 (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D06-003S[EN].jpg">WDi-06</set>
 			<tablerow>0</tablerow>
 			<text/>
 			<prop>
@@ -18250,6 +18286,30 @@ Target 1 level 3 LRIG on your field, and it gets the following ability until end
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
+(Use Condition) [Team]:  [DIAGRAM] and all LRIGs on your field are level 1 or higher.
+
+Target 1 level 3 LRIG on your field, and it gets the following ability until end of turn:
+"[Auto]:  When this LRIG attacks, choose one:
+= Put the top 15 cards of your opponent's deck into the trash.
+= Target up to 3 SIGNI without [Guard] in your trash, and add them to your hand."</text>
+			<prop>
+				<colors>BUG</colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>PIECE - (DS)</type>
+				<maintype>PIECE</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Salvage the Future (alt)</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Salvage%20the%20Future%20%28alt%29.jpg">WDi-06</set>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
 (Use Condition) [Team]:  [DIAGRAM] and all LRIGs on your field are level 1 or higher.
 
 Target 1 level 3 LRIG on your field, and it gets the following ability until end of turn:
