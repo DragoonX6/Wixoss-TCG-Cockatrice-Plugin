@@ -153651,8 +153651,8 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 		<!-- SPDi08S -->
 		<card>
 			<name>Arcgwyn, Blessed Angel Queen (SPDi08S)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Arcgain%2C%20Holy%20Angel%20Princess%20(SPDi08S).jpg">SPDi08S</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P088[EN].jpg">PREN</set>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Arcgain%2C%20Holy%20Angel%20Princess%20(SPDi08S).jpg">SPDi08S</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  This SIGNI gets [Shadow] during your opponent's turn.  (SIGNI with [Shadow] cannot be targeted by your opponent's effects.)
 [Enter] {W}: Look at the top 3 cards of your deck.  Reveal 1 SIGNI from among them, add it to your hand, then put the rest on the bottom of your deck in any order.
