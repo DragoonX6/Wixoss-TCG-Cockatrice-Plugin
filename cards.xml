@@ -97341,6 +97341,27 @@ Choose up to two:
 			</prop>
 		</card>
 		<card>
+			<name>Manaka Laala, PriPara Idol (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P10-033P[EN].jpg">WXDi-P10</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  PriPara SIGNI on your field not named "Manaka Laala, PriPara Idol" get +2000 power during your opponent's turn.
+[Enter] {2}:  Reveal the top 5 cards of your deck, then put them on the bottom of your deck in a random order.  Target 1 SIGNI on your opponent's field, and choose one:
+- If a PriPara SIGNI was revealed this way, return the targeted SIGNI to its owner's hand.
+- If a "Mirei Minami, PriPara Idol" and a "Sophy Hojo, PriPara Idol" were revealed this way, put the targeted SIGNI into the trash.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>SIGNI - Idol Tone: PriPara (DS)</type>
+				<pt>12000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
 			<name>Yuki//Memoria, Natural Plant Queen</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P10-034[EN].jpg">WXDi-P10</set>
 			<tablerow>2</tablerow>
@@ -97445,6 +97466,29 @@ Choose up to two:
 		<card>
 			<name>Shikyoin Hibiki, PriPara Idol</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P10-038[EN].jpg">WXDi-P10</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, draw 2 cards, then discard 1 PriPara SIGNI from your hand or discard 2 cards from your hand.
+[Auto]:  When this SIGNI is vanished, your opponent discards 1 card from their hand.
+
+[Life Burst]:  Choose one:
+-  Target up to 2 SIGNI on your opponent's SIGNI, and down them.
+-  Draw 1 card.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>SIGNI|LB - Idol Tone: PriPara (DS)</type>
+				<pt>12000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Shikyoin Hibiki, PriPara Idol (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P10-038P[EN].jpg">WXDi-P10</set>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  At the beginning of your Attack Phase, draw 2 cards, then discard 1 PriPara SIGNI from your hand or discard 2 cards from your hand.
 [Auto]:  When this SIGNI is vanished, your opponent discards 1 card from their hand.
