@@ -103268,6 +103268,25 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 			</prop>
 		</card>
 		<card>
+			<name>Urith//Dissona, Lucent Evil Queen (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P12-055P[EN].jpg">WXDi-P12</set>
+			<tablerow>2</tablerow>
+			<text>(Harmony): 2 LRIGs (This SIGNI is downed when it is put onto your field unless you down 2 upped LRIGs on your field.)
+
+[Auto]:  At the beginning of your Attack Phase, if this SIGNI is upped, target 1 SIGNI on your opponent's field, and you may choose 1 card in your hand.  If you do, your opponent declares 1 color icon, or colorless icon.  Discard the card you chose from your hand, and if it does not have the icon your opponent declared, vanish the targeted SIGNI.</text>
+			<prop>
+				<colors>C</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>SIGNI - Idol Tone: Demon (Dissona) (DS)</type>
+				<pt>10000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva><format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
 			<name>Urith//Dissona, Lucent Evil Queen</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P12-055[EN].jpg">WXDi-P12</set>
 			<tablerow>2</tablerow>
