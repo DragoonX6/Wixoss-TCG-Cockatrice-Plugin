@@ -104217,6 +104217,25 @@ Draw 2 cards, then discard 1 card from your hand.  Then, target 1 level 1 SIGNI 
 			</prop>
 		</card>
 		<card>
+			<name>Brain Hearts (alt)</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Brain%20Hearts%20%28alt%29.jpg">WXDi-P13</set>
+			<tablerow>0</tablerow>
+			<text>Use Timing [Main Phase]
+
+Draw 2 cards, then discard 1 card from your hand.  Then, target 1 level 1 SIGNI on your opponent's field, and vanish it.  If you discarded a (Dissona) card by this card's effect,  instead target 1 SIGNI on your opponent's field, and vanish it.</text>
+			<prop>
+				<colors>C</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>PIECE - (Dissona) (DS)</type>
+				<maintype>PIECE</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
 			<name>Remember Tempest, Miko of Fantasia</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P13-006[EN].jpg">WXDi-P13</set>
 			<tablerow>0</tablerow>
