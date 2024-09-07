@@ -99299,6 +99299,23 @@ Target 1 SIGNI on your opponent's field, and it gets -2000 power until end of tu
 				<format-english>legal</format-english>
 			</prop>
 		</card>
+		<card>
+			<name>Myu=IRS</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P11-TK07A[EN].jpg">token</set>
+			<tablerow>0</tablerow>
+			<text>{5} ...You gotta pay up.</text>
+			<prop>
+				<colors>C</colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type/>
+				<token>1</token>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
 		<!-- WXDi-CP01 -->
 		<card>
 			<name>SELENE Girls' Academy, After School</name>
