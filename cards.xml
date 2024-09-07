@@ -171095,6 +171095,122 @@ Got it~. ~Tlet~
 			</prop>
 		</card>
 		<card>
+			<name>F - Lite, Code: Art (P092[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P092[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When this SIGNI attacks, look at the top 3 cards of your deck.  Reveal 1 SPELL from among them and add it to your hand, then put the rest on the bottom of your deck in any order.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Mech Tone: Electronics (DS)</type>
+				<pt>1000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Sharkspeare, Azure Evil (P093[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P093[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Action] {Down}: Put the top 3 cards of your deck into the trash, then if there are 20 or more cards in your trash, you may pay {2}.  If you do, target 1 Demon SIGNI in your trash, and add it to your hand.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Idol Tone: Demon (DS)</type>
+				<pt>3000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Ge, Natural Element (P094[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P094[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Enter] {3}: If 3 or more colors of cards were put into the trash to pay for this ability's cost, target 1 SIGNI on your opponent's field with 12000 power or higher, and vanish it.  (Colorless is not a color.)
+
+[Life Burst]:  Choose one:
+- Target 1 upped SIGNI on your opponent's field, and vanish it.
+- [Ener Charge 1]</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>SIGNI|LB - Nature Tone: Atom (DS)</type>
+				<pt>12000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Romail, Lightly Armed (P106[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P106[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Enter] {1}: Target 1 SIGNI on your opponent's field with 3000 power or lower, and vanish it.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - War Tone: Armed (DS)</type>
+				<pt>2000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Camelopar, Natural Planet (P107[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P107[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  While there are 3 or more different classes among SIGNI in your Ener Zone, this SIGNI gets +4000 power.</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Nature Tone: Cosmos (DS)</type>
+				<pt>3000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Anna Mirage, Doomed Evil (P108[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P108[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>(Rise): Put on any 1 SIGNI on your field.
+
+[Enter] {1}: Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn.
+
+[Life Burst]:  Target 1 SIGNI without [Guard] in your trash, and add it to your hand or put it onto the field.</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>SIGNI|LB - Idol Tone: Demon (DS)</type>
+				<pt>13000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>TRIGGER OF VICTORY (P110[EN])</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/TRIGGER%20OF%20VICTORY%20(P110%5BEN%5D).jpg">PREN</set>
 			<tablerow>0</tablerow>
@@ -171235,6 +171351,44 @@ Crush 1 card in your opponent's Life Cloth.  Then target 1 SIGNI without [Guard]
 			</prop>
 		</card>
 		<card>
+			<name>Curson, Blessed Evil (P175[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P175[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  During your turn, when 1 or more cards are put from a deck into the trash by your card's effect, all SIGNI on your opponent's field lose their abilities until end of turn.
+
+[Life Burst]:  Target 1 SIGNI on your opponent's field, and it gets "[Constant]:  Can't attack." until end of turn.  Draw 1 card.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI|LB - Idol Tone: Demon (DS)</type>
+				<pt>5000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Yue Fei, Crimson General (P176[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P176[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Action] {Down}: Target 1 SIGNI on your opponent's field with 2000 power or lower, and vanish it.  If this SIGNI has 5000 power or higher, instead target 1 SIGNI on your opponent's field with 5000 power or lower, and vanish it.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Idol Tone: Brave (DS)</type>
+				<pt>2000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Yukayuka☆Threee (P179P[EN])</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P179P[EN].jpg">PREN</set>
 			<tablerow>0</tablerow>
@@ -171315,6 +171469,174 @@ Crush 1 card in your opponent's Life Cloth.  Then target 1 SIGNI without [Guard]
 			</prop>
 		</card>
 		<card>
+			<name>Zhao Yun, Blessed General (P212[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P212[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  This SIGNI gets [Shadow: Level 2 or lower SIGNI] during your opponent's turn.
+
+(SIGNI with [Shadow: Level 2 or lower SIGNI] cannot be targeted by effects of your opponent's level 2 or lower SIGNI.)</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Idol Tone: Brave (DS)</type>
+				<pt>3000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Hera, Crimson Evil (P213[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P213[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When this SIGNI attacks, if all SIGNI on your field are red, target 1 SIGNI on your opponent's field with 5000 power or lower, and you may pay {R}.  If you do, vanish that SIGNI.  </text>
+			<prop>
+				<colors>R</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI - Idol Tone: Demon (DS)</type>
+				<pt>5000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Trouble (P214[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P214[EN].jpg">PREN</set>
+			<tablerow>3</tablerow>
+			<text>Draw 3 cards.
+
+[Life Burst]:  Target up to 2 SIGNI on your opponent's field, and down them.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<type>SPELL|LB - (DS)</type>
+				<maintype>SPELL|LB</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Parajulis, Phantom Aquatic Beast (P215[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P215[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When this SIGNI attacks, if a card was put from your deck into your Ener Zone this turn, target 1 SIGNI on your opponent's field with 8000 power or lower, and you may pay {1}{G}.  If you do, vanish that SIGNI.  </text>
+			<prop>
+				<colors>G</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Living Tone: Aquatic Beast (DS)</type>
+				<pt>2000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Ishikirimaru, High Armed (P219[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P219[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  This SIGNI gets +4000 power during your opponent's turn.
+[Auto] [1/Turn]:  When another SIGNI enters your field, look at the top card of your deck, then you may put that card on the bottom of your deck.
+
+[Life Burst]:  Look at the top 3 cards of your deck.  Reveal 1 SIGNI from among them, then add it to your hand or put it onto your field.  Put the rest on the bottom of your deck in any order.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI|LB - War Tone: Armed (DS)</type>
+				<pt>8000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Carina, Natural Planet (P220[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P220[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When this SIGNI attacks, reveal the top card of your deck.  If it is a level 1 SIGNI, target 1 SIGNI on your opponent's field with 8000 power or lower, then you may pay {1}.  If you do, vanish that SIGNI.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI - Nature Tone: Cosmos (DS)</type>
+				<pt>5000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Heqet, Azure Angel (P221[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P221[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Enter]:  Look at the top 3 cards of your deck.  Put any number of them on the bottom of your deck in any order, then put the rest on top of your deck in any order.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Idol Tone: Angel (DS)</type>
+				<pt>3000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Akufuku, Code: Maze (P222[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P222[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Life Burst]:  [Ener Charge 1].  You cannot be damaged by your opponent's level 3 or lower SIGNI this turn.</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI|LB - Mech Tone: Labyrinth (DS)</type>
+				<pt>10000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Paimon, Doomed Evil (P223[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P223[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When this SIGNI attacks, target 1 SIGNI on your opponent's field, then you may put 1 SIGNI on your field into the trash.  If you do, that targeted SIGNI gets -5000 power until end of turn.</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI - Idol Tone: Demon (DS)</type>
+				<pt>5000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Garden of Singularity (P252[EN])</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/refs/heads/master/pics/CUSTOM/Garden%20of%20Singularity%20(P252%5BEN%5D).jpg">PREN</set>
 			<tablerow>0</tablerow>
@@ -171350,6 +171672,269 @@ Draw 1 card.  You get the following ability for the rest of this game:
 				<format-allstar>legal</format-allstar>
 				<format-key>legal</format-key>
 				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Tokiyuki, Blessed General (P280[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P280[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  If your center LRIG is white, this SIGNI gets +5000 power during your opponent's turn.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Idol Tone: Brave (DS)</type>
+				<pt>3000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Nabeno-Tsuna, Crimson General (P281[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P281[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, if there are 3 or more red SIGNI on your field with different names and your opponent has 2 or more cards in their Ener Zone, your opponent puts 1 card from their Ener Zone into the trash.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI - Idol Tone: Brave (DS)</type>
+				<pt>5000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Manomin, Azure Evil (P282[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P282[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, you may discard 1 card from your hand.  If you do, your opponent discards 1 card from their hand.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Idol Tone: Demon (DS)</type>
+				<pt>3000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Iwatooshi, Lightly Armed (P283[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P283[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, target 1 card in your opponent's Ener Zone that does not share a color with your opponent's center LRIG, and you may pay {1}.  If you do, put that card into the trash.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - War Tone: Armed (DS)</type>
+				<pt>2000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Hyakkoko, Phantom Terra Beast (P284[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P284[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When this SIGNI attacks, if this SIGNI has 5000 power or higher, [Ener Charge 1].</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Living Tone: Terra Beast (DS)</type>
+				<pt>2000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Caesar, Doomed General (P285[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P285[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Enter] {B}: If there are 7 or more cards in your trash, this SIGNI gets "[Constant]:  While there is a SIGNI with 5000 power or lower in front of this SIGNI, this SIGNI gets [Assassin]." until end of turn.
+
+(When a SIGNI with [Assassin] attacks, it damages your opponent with its attack without battling the SIGNI in front of it.)</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI - Image Spirit: Brave (DS)</type>
+				<pt>5000</pt>
+				<maintype>SIGNI</maintype>
+				<format-english>legal</format-english>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Nova//Memoria, Natural Planet (P286[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P286[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the beginning of your opponent's Attack Phase, target up to 1 level 2 or lower SIGNI on your opponent's field, and you may return this SIGNI its owner's hand.  If you do, that targeted SIGNI gets "[Constant]:  Can't attack."  until end of turn.
+
+[Life Burst]:  Target 1 SIGNI on your opponent's field, and it gets "[Constant]:  Can't attack." until end of turn.  Draw 1 card.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI|LB - Nature Tone: Cosmos (DS)</type>
+				<pt>8000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Yuzuki//Memoria, Phantom Dragon (P287[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P287[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, if there are 4 or more cards in your opponent's Ener Zone, you may pay {2}{R}.  If you do, your opponent puts 2 cards from their Ener Zone into the trash.
+
+[Life Burst]:  Target 1 SIGNI on your opponent's field with 8000 power or lower, and vanish it.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI|LB - Living Tone: Dragon (DS)</type>
+				<pt>3000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Rei//Memoria, Natural Crystal (P288[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P288[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  Other red SIGNI and Jewel SIGNI on your field get +2000 power.
+[Auto] [1/Turn]:  When another Jewel SIGNI is targeted by an [Enter] effect or [Enter] ability of a SIGNI on your opponent's field, your opponent discards 1 card from their hand.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI - Nature Tone: Jewel (DS)</type>
+				<pt>8000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
+			<name>Yukayuka//Dissona, Medium Trickster (P303[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P303[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Action] {W}{W}, {Down}:  Target 1 SIGNI in your trash with [Guard], and add it to your hand.
+
+[Life Burst]:  Target 1 SIGNI on your opponent's field, and it gets "[Constant]:  Can't attack." until end of turn.  Draw 1 card.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI|LB - War Tone: Trickster (Dissona) (DS)</type>
+				<pt>8000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Lala Ru//Dissona, Code: Art (P304[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P304[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, if you used a SPELL this turn, target 1 card in your opponent's Ener Zone that does not share a color with your opponent's center LRIG, and put it into the trash.
+
+[Life Burst]:  Target 1 SIGNI on your opponent's field with 12000 power or lower, and you may discard 1 card from your hand.  If you do, vanish that SIGNI.</text>
+			<prop>
+				<colors>R</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI|LB - Mech Tone: Electronics (Dissona) (DS)</type>
+				<pt>5000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Soui//Dissona, Azure General (P305[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P305[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  When this SIGNI would vanish a frozen SIGNI on your opponent's field by battle, put that SIGNI into the trash instead of the Ener Zone.
+[Enter]:  If there are 1 or less cards in your opponent's hand, target 1 SIGNI on your opponent's field, and freeze it, and this SIGNI gets +4000 power until end of turn.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI - Idol Tone: Brave (Dissona) (DS)</type>
+				<pt>8000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>At//Dissona, Code: Maze (P306[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P306[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  While this SIGNI is on your center SIGNI Zone, this SIGNI gets +4000 power.
+[Auto]:  When this card is put from your deck into your Ener Zone, you may add this card from your Ener Zone to your hand.
+
+[Life Burst]:  [Ener Charge 1].  The next time you would take damage from a LRIG this turn, you do not take that damage instead.</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI|LB - Mech Tone: Labyrinth (Dissona) (DS)</type>
+				<pt>8000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Mahomaho//Dissona, Natural Element (P307[EN])</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P307[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When this SIGNI attacks, put the top 2 cards of your opponent's deck into the trash.</text>
+			<prop>
+				<colors>B</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Nature Tone: Atom (Dissona) (DS)</type>
+				<pt>3000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva><format-english>legal</format-english>
 			</prop>
 		</card>
 		<!-- Other -->
