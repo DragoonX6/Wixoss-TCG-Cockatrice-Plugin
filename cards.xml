@@ -153737,8 +153737,8 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 		<!-- SPDi10 -->
 		<card>
 			<name>Arcgwyn, Blessed Angel Queen (SPDi10)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-01.jpg">SPDi10</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P054[EN].jpg">PREN</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-01.jpg">SPDi10</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  This SIGNI gets [Shadow] during your opponent's turn.  (SIGNI with [Shadow] cannot be targeted by your opponent's effects.)
 [Enter] {W}: Look at the top 3 cards of your deck.  Reveal 1 SIGNI from among them, add it to your hand, then put the rest on the bottom of your deck in any order.
@@ -153761,8 +153761,8 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 		</card>
 		<card>
 			<name>Lancelot, Crimson General (SPDi10)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-02.jpg">SPDi10</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P055[EN].jpg">PREN</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-02.jpg">SPDi10</set>
 			<tablerow>2</tablerow>
 			<text>[Enter] {1}: Target 1 SIGNI on your opponent's field with 5000 power or lower, and vanish it.</text>
 			<prop>
@@ -153780,8 +153780,8 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 		</card>
 		<card>
 			<name>Osagitsune, Phantom Terra Beast God (SPDi10)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-03.jpg">SPDi10</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P136[EN].jpg">PREN</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-03.jpg">SPDi10</set>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, if 1 or more cards were put from your deck into your Ener Zone this turn, target 1 SIGNI on your opponent's field with 12000 power or higher, and you may pay {1}{G}.  If you do, vanish that SIGNI.
 [Enter]:  Target up to 2 other SIGNI on the field, and they get +5000 power until end of turn.</text>
@@ -153800,8 +153800,8 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 		</card>
 		<card>
 			<name>Baphomet, Doomed Evil (SPDi10)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-04.jpg">SPDi10</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P135[EN].jpg">PREN</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-04.jpg">SPDi10</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  While there are 5 or more cards in your trash, this SIGNI gets +4000 power.
 [Enter]:  Put the top 3 cards of your deck into the trash.</text>
@@ -153819,8 +153819,8 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 		</card>
 		<card>
 			<name>Exia, Blessed Angel Queen (SPDi10)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-05.jpg">SPDi10</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P189[EN].jpg">PREN</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-05.jpg">SPDi10</set>
 			<tablerow>2</tablerow>
 			<text>[Auto] [1/Turn]:  When a SIGNI on your field is targeted by your opponent's ability or card effect, choose 1 SIGNI Zone on your opponent's field.  Your opponent cannot attack with SIGNI on that SIGNI Zone this turn.
 [Auto]:  At the end of your turn, up all SIGNI on your field.
@@ -153843,8 +153843,8 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 		</card>
 		<card>
 			<name>Bruno, Azure General (SPDi10)</name>
-			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-06.jpg">SPDi10</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P188[EN].jpg">PREN</set>
+			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPDi10/SPDi10-06.jpg">SPDi10</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  While this SIGNI is on your center SIGNI Zone, this SIGNI gets "[Auto]:  When this SIGNI attacks, draw 1 card or your opponent discards 1 card from their hand."</text>
 			<prop>
