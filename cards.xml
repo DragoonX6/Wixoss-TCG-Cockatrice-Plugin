@@ -171841,6 +171841,26 @@ Draw 1 card.  You get the following ability for the rest of this game:
 			</prop>
 		</card>
 		<card>
+			<name>Servant # (Salome)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P294P[EN].jpg">PREN</set>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]:  [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
+
+[Life Burst]:  Target 1 SIGNI in your trash, and add it to your hand.</text>
+			<prop>
+				<colors>C</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI|LB - Primal Tone (DS)</type>
+				<pt>1000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>Yukayuka//Dissona, Medium Trickster (P303[EN])</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P303[EN].jpg">PREN</set>
 			<tablerow>2</tablerow>
