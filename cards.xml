@@ -22892,7 +22892,7 @@ Put 1 SIGNI on your field into the trash.  If you do, vanish 1 SIGNI on your opp
 			<name>Jeweled Sword of Shining Desire</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX02/WX02-055.jpg">WX02</set>
 			<tablerow>3</tablerow>
-			<text>1 of your Ore, Gem, or Weapon SIGNI gets [Double Crush] until end of turn.</text>
+			<text>1 of your Ore, Jewel, or Weapon SIGNI gets [Double Crush] until end of turn.</text>
 			<prop>
 				<colors>R</colors>
 				<manacost>R</manacost>
