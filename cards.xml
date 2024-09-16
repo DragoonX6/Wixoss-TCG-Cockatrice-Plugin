@@ -53528,7 +53528,7 @@ Use 1 of your LRIG's {Exceed X} abilities without paying its cost and ignoring i
 			<name>Code Anti Kaizuka</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX21/WX21-Re06.jpg">WX21</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When a SIGNI is put from your trash onto your field, you may put this SIGNI from your trash onto your field.  If you do, exclude this SIGNI from the game when this SIGNI leaves the field or at the end of the turn.
+			<text>[Constant]:  When a SIGNI is put from your trash onto your field, you may put this SIGNI from your trash onto your field.  If you do, exclude this SIGNI from the game when this SIGNI leaves the field or at the end of the turn.
 [Enter]:  When this SIGNI put from your trash onto your field, 1 SIGNI on your opponent's field gets -5000 power until end of turn.  </text>
 			<prop>
 				<colors>B</colors>
