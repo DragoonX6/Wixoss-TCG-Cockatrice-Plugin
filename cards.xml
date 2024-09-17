@@ -107846,6 +107846,23 @@ Target up to 3 DEN-ON-BU SIGNI in your trash, and put them onto your field.  If 
 			</prop>
 		</card>
 		<card>
+			<name>DEN-ON-BU Kazune Shinonome (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-075PS[EN].jpg">WXDi-P14</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the end of your turn, if this SIGNI is upped, reveal the top card of your deck.  If it is a Denonbu SIGNI, draw 1 card.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Denonbu (DS)</type>
+				<pt>2000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>DEN-ON-BU Reina Hidaka</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-076[EN].jpg">WXDi-P14</set>
 			<tablerow>2</tablerow>
@@ -107864,6 +107881,26 @@ Target up to 3 DEN-ON-BU SIGNI in your trash, and put them onto your field.  If 
 				<format-key>legal</format-key>
 				<format-diva>legal</format-diva>
 				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>DEN-ON-BU Reina Hidaka (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-076PS[EN].jpg">WXDi-P14</set>
+			<tablerow>2</tablerow>
+			<text>[Enter]:  Target 1 other Denonbu SIGNI on your field, and it gets +3000 power until the end of your opponent's next turn.
+[Action] {Down}, Put 2 Denonbu SIGNI from your Ener Zone into the trash:  Target 1 SIGNI with [Guard] in your trash, and add it to your hand.
+
+[Life Burst]:  Draw 1 card.  All SIGNI in your hand get [Guard] this turn.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI|LB - Denonbu (DS)</type>
+				<pt>5000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
 			</prop>
 		</card>
 		<card>
@@ -107943,6 +107980,24 @@ Target up to 3 DEN-ON-BU SIGNI in your trash, and put them onto your field.  If 
 				<format-key>legal</format-key>
 				<format-diva>legal</format-diva>
 				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>DEN-ON-BU Tama Kurogane (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-079PS[EN].jpg">WXDi-P14</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, target 1 SIGNI on your opponent's field, and you may put 3 Denonbu SIGNI from your Ener Zone into the trash.  If you do, return that SIGNI to its owner's hand.
+[Enter] Discard 1 card from your hand:  Look at the top 5 cards of your deck.  Reveal up to 1 "Aki Shirokane, Denonbu" or "Ginka Haijima, Denonbu" from among them and add it to your hand, put 1 Denonbu SIGNI from among them into the Ener Zone, then put the rest on the bottom of your deck in any order.</text>
+			<prop>
+				<colors>W</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>SIGNI - Denonbu (DS)</type>
+				<pt>10000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
 			</prop>
 		</card>
 		<card>
@@ -108139,6 +108194,23 @@ Target up to 3 DEN-ON-BU SIGNI in your trash, and put them onto your field.  If 
 			</prop>
 		</card>
 		<card>
+			<name>DEN-ON-BU Maya-Shakuji-Abeno (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-087P[EN].jpg">WXDi-P14</set>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]:  When another Denonbu SIGNI on your field crushes a card in your opponent's Life Cloth, [Ener Charge 1].</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI - Denonbu (DS)</type>
+				<pt>8000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>DEN-ON-BU Matoi Ogami</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-088[EN].jpg">WXDi-P14</set>
 			<tablerow>2</tablerow>
@@ -108161,6 +108233,27 @@ Target up to 3 DEN-ON-BU SIGNI in your trash, and put them onto your field.  If 
 			</prop>
 		</card>
 		<card>
+			<name>DEN-ON-BU Matoi Ogami (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-088P[EN].jpg">WXDi-P14</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the beginning of your Attack Phase, target 1 Denonbu SIGNI on your field, and you may put 3 Denonbu SIGNI from your Ener Zone into the trash.  If you do, that SIGNI gets [Lancer] until end of turn.
+
+[Life Burst]:  Choose one:
+- Target 1 upped SIGNI on your opponent's field, and vanish it.
+- [Ener Charge 1]</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>SIGNI|LB - Denonbu (DS)</type>
+				<pt>12000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+			</prop>
+		</card>
+		<card>
 			<name>DEN-ON-BU Reml</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-089[EN].jpg">WXDi-P14</set>
 			<tablerow>2</tablerow>
@@ -108176,6 +108269,23 @@ Target up to 3 DEN-ON-BU SIGNI in your trash, and put them onto your field.  If 
 				<format-key>legal</format-key>
 				<format-diva>legal</format-diva>
 				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>DEN-ON-BU Reml (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-089P[EN].jpg">WXDi-P14</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  While there is a Denonbu SIGNI in your Ener Zone, this SIGNI gets +5000 power.</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - Denonbu (DS)</type>
+				<pt>3000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
 			</prop>
 		</card>
 		<card>
