@@ -108433,6 +108433,40 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 				<format-english>legal</format-english>
 			</prop>
 		</card>
+		<card>
+			<name>SIGNI Barrier (WXDi-P14)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-TK06[EN].jpg">WXDi-P14</set>
+			<tablerow>0</tablerow>
+			<text>(The next time you would take damage from a SIGNI, remove 1 [SIGNI Barrier] and you do not take that damage instead.)</text>
+			<prop>
+				<colors>C</colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type/>
+				<token>1</token>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>LRIG Barrier (WXDi-P14)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P14-TK07[EN].jpg">WXDi-P14</set>
+			<tablerow>0</tablerow>
+			<text>(The next time you would take damage from a LRIG, remove 1 [LRIG Barrier] and you do not take that damage instead.)</text>
+			<prop>
+				<colors>C</colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type/>
+				<token>1</token>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
 		<!-- WXDi-CP02 -->
 		<card>
 			<name>Tea Party</name>
