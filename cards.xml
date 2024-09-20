@@ -44762,7 +44762,7 @@ Vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<tablerow>2</tablerow>
 			<text>[Action] {Down]:  Look at the top 3 cards of your deck.  You may set 1 of them on 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
 		
-[Trap]:  You may pay {3}{U}{U}.  If you do, return all SIGNI on your opponent's field to their owners' hands.
+[Trap]:  You may pay {3}{U}{U}{U}.  If you do, return all SIGNI on your opponent's field to their owners' hands.
 
 [Life Burst]:  Return 1 Trap on your field to its owner's hand.  If you do, return 1 SIGNI on your opponent's field to its owner's hand.  </text>
 			<prop>
