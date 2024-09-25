@@ -136149,7 +136149,7 @@ Choose one.  If you put 3 PriOrche cards into the trash as you used this ARTS, c
 			<tablerow>0</tablerow>
 			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto the field.)
 [Constant]:  All Cosmos RESONAs on your field get [Assassin].
-[Auto] [1/Turn]:  When a RESONA leaves your field, search your deck 1 Cosmos SIGNI and put it onto your field.  Shuffle your deck.
+[Auto] [1/Turn]:  When a RESONA leaves your field, search your deck for 1 Cosmos SIGNI and put it onto your field.  Shuffle your deck.
 [Action] [1/Turn] [Attack Phase] Pay 1 Coin: Target 1 SIGNI on your opponent's field, and return it to its owner's hand.</text>
 			<prop>
 				<colors>W</colors>
