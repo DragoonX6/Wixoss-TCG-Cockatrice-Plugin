@@ -28323,7 +28323,7 @@ Exclude up to 3 cards in your opponent's trash from the game.  (Excluded cards a
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX07/WX07-023.jpg">WX07</set>
 			<tablerow>2</tablerow>
 			<text>[Enter] {W}{W}: If there is a RESONA on your field, return 1 SIGNI on your opponent's field to it's owners hand.
-[Enter]:  1 RESONA on your field gets "This SIGNI is unaffected your opponent's ARTS effects." until end of turn.
+[Enter]:  1 RESONA on your field gets "This SIGNI is unaffected by your opponent's ARTS effects." until end of turn.
 
 [Life Burst]:  Choose one:
 - Down your opponent's LRIG.
