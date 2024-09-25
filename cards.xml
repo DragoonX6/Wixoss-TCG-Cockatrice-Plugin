@@ -63963,7 +63963,7 @@ Choose one:
 			<name>Code Eat Mizuman</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK05/WXK05-067.jpg">WXK05</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When a card becomes attached to this SIGNI as an [Accessory], you may pay {U}{U}{U}.  If you do, put 1 level 2 or lower SIGNI on your opponent's field on the top of its owner's deck.</text>
+			<text>[Auto]:  When a card becomes attached to this SIGNI as an [Accessory], you may pay {U}{U}.  If you do, put 1 level 2 or lower SIGNI on your opponent's field on the top of its owner's deck.</text>
 			<prop>
 				<colors>U</colors>
 				<manacost>1</manacost>
