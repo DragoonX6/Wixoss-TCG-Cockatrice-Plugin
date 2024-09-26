@@ -99392,7 +99392,7 @@ Put the top 2 cards of your deck into the trash.  Target up to 2 Virtual SIGNI i
 (All (Use Condition)s must be met to use this PIECE.)
 
 Choose up to two:
-- Invite 2 CollaboLivers.
+- Invite 2 Collab Livers.
 - Target 1 SIGNI on your opponent's field, and return it to its owner's hand.
 - Look at the top 3 cards of your deck.  Add any number of them to your hand, then put the rest into your Ener Zone.</text>
 			<prop>
@@ -99411,8 +99411,8 @@ Choose up to two:
 			<name>[Center] Lize, Level 3'</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP01-005[EN].jpg">WXDi-CP01</set>
 			<tablerow>0</tablerow>
-			<text>[Constant]:  When you [Guard], you may pay {1} and collab with 1 CollaboLiver instead of discarding a card with [Guard] from your hand.
-[Enter]:  Invite 2 CollaboLivers.
+			<text>[Constant]:  When you [Guard], you may pay {1} and collab with 1 Collab Liver instead of discarding a card with [Guard] from your hand.
+[Enter]:  Invite 2 Collab Livers.
 [Action] [1/Game] #NationalBroadcastingofHelestaKingdom {0}:  Look at the top 5 cards of your deck.  Put up to 1 SIGNI from among them onto your field, then put the rest on the bottom of your deck in any order.  During your opponent's next turn, all SIGNI on your field get [Shadow (SIGNI)].</text>
 			<prop>
 				<colors>W</colors>
@@ -99431,8 +99431,8 @@ Choose up to two:
 			<name>[Center] Lize, Level 3' (alt)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP01-005U[EN].jpg">WXDi-CP01</set>
 			<tablerow>0</tablerow>
-			<text>[Constant]:  When you [Guard], you may pay {1} and collab with 1 CollaboLiver instead of discarding a card with [Guard] from your hand.
-[Enter]:  Invite 2 CollaboLivers.
+			<text>[Constant]:  When you [Guard], you may pay {1} and collab with 1 Collab Liver instead of discarding a card with [Guard] from your hand.
+[Enter]:  Invite 2 Collab Livers.
 [Action] [1/Game] #NationalBroadcastingofHelestaKingdom {0}:  Look at the top 5 cards of your deck.  Put up to 1 SIGNI from among them onto your field, then put the rest on the bottom of your deck in any order.  During your opponent's next turn, all SIGNI on your field get [Shadow (SIGNI)].</text>
 			<prop>
 				<colors>W</colors>
@@ -99451,8 +99451,8 @@ Choose up to two:
 			<name>[Center] Ange, Level 3'</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP01-006[EN].jpg">WXDi-CP01</set>
 			<tablerow>0</tablerow>
-			<text>[Enter]:  Invite 2 CollaboLivers.
-[Action] {1}, Collab with 1 CollaboLiver:  Target 1 SIGNI on your opponent's field with 12000 power or lower, and return it to its owner's hand.
+			<text>[Enter]:  Invite 2 Collab Livers.
+[Action] {1}, Collab with 1 Collab Liver:  Target 1 SIGNI on your opponent's field with 12000 power or lower, and return it to its owner's hand.
 [Action] [1/Game] #Sage'sTime {0}:  This LRIG gets "[Auto] [1/Turn]:  When this LRIG attacks, damage your opponent unless your opponent pays {4} or discards 1 [Guard]." until end of turn.</text>
 			<prop>
 				<colors>W</colors>
@@ -99471,8 +99471,8 @@ Choose up to two:
 			<name>[Center] Ange, Level 3' (alt)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP01-006U[EN].jpg">WXDi-CP01</set>
 			<tablerow>0</tablerow>
-			<text>[Enter]:  Invite 2 CollaboLivers.
-[Action] {1}, Collab with 1 CollaboLiver:  Target 1 SIGNI on your opponent's field with 12000 power or lower, and return it to its owner's hand.
+			<text>[Enter]:  Invite 2 Collab Livers.
+[Action] {1}, Collab with 1 Collab Liver:  Target 1 SIGNI on your opponent's field with 12000 power or lower, and return it to its owner's hand.
 [Action] [1/Game] #Sage'sTime {0}:  This LRIG gets "[Auto] [1/Turn]:  When this LRIG attacks, damage your opponent unless your opponent pays {4} or discards 1 [Guard]." until end of turn.</text>
 			<prop>
 				<colors>W</colors>
@@ -99491,8 +99491,8 @@ Choose up to two:
 			<name>[Center] Toko, Level 3'</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP01-007[EN].jpg">WXDi-CP01</set>
 			<tablerow>0</tablerow>
-			<text>[Enter]:  Invite 2 CollaboLivers.
-[Action] Collab with 1 CollaboLiver:  Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn.
+			<text>[Enter]:  Invite 2 Collab Livers.
+[Action] Collab with 1 Collab Liver:  Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn.
 [Action] [1/Game] #Inui_dondon_suki_ni_naru {0}:  Target 1 SIGNI on your opponent's field, and it gets -5000 power until end of turn.  Then target on your opponent's field 1 level 1 SIGNI and 1 SIGNI with 8000 power or lower, and vanish them.</text>
 			<prop>
 				<colors>B</colors>
@@ -99511,8 +99511,8 @@ Choose up to two:
 			<name>[Center] Toko, Level 3' (alt)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP01-007U[EN].jpg">WXDi-CP01</set>
 			<tablerow>0</tablerow>
-			<text>[Enter]:  Invite 2 CollaboLivers.
-[Action] Collab with 1 CollaboLiver:  Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn.
+			<text>[Enter]:  Invite 2 Collab Livers.
+[Action] Collab with 1 Collab Liver:  Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of turn.
 [Action] [1/Game] #Inui_dondon_suki_ni_naru {0}:  Target 1 SIGNI on your opponent's field, and it gets -5000 power until end of turn.  Then target on your opponent's field 1 level 1 SIGNI and 1 SIGNI with 8000 power or lower, and vanish them.</text>
 			<prop>
 				<colors>B</colors>
@@ -99531,8 +99531,8 @@ Choose up to two:
 			<name>[Center] Mito, Level 3</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP01-008[EN].jpg">WXDi-CP01</set>
 			<tablerow>0</tablerow>
-			<text>[Enter]:  Invite 2 CollaboLivers.
-[Action] Collab with 1 CollaboLiver:  Target 1 black SIGNI in your trash, and put it onto your field.
+			<text>[Enter]:  Invite 2 Collab Livers.
+[Action] Collab with 1 Collab Liver:  Target 1 black SIGNI in your trash, and put it onto your field.
 [Action] [1/Game] #Mito'sLiveBroadcasting {0}:  Each player puts the top 10 cards of their decks into the trash.  Then, target 3 cards in your trash with different names, and shuffle them into your deck.</text>
 			<prop>
 				<colors>B</colors>
@@ -99551,8 +99551,8 @@ Choose up to two:
 			<name>[Center] Mito, Level 3 (alt)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP01-008U[EN].jpg">WXDi-CP01</set>
 			<tablerow>0</tablerow>
-			<text>[Enter]:  Invite 2 CollaboLivers.
-[Action] Collab with 1 CollaboLiver:  Target 1 black SIGNI in your trash, and put it onto your field.
+			<text>[Enter]:  Invite 2 Collab Livers.
+[Action] Collab with 1 Collab Liver:  Target 1 black SIGNI in your trash, and put it onto your field.
 [Action] [1/Game] #Mito'sLiveBroadcasting {0}:  Each player puts the top 10 cards of their decks into the trash.  Then, target 3 cards in your trash with different names, and shuffle them into your deck.</text>
 			<prop>
 				<colors>B</colors>
