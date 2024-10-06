@@ -15852,7 +15852,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>Use Timing: [Main Phase]
 
-(Use Condition) [Team]:  Ancient Surprise] and all LRIGs on your field are level 1 or higher.
+(Use Condition) [Team]:  [Ancient Surprise] and all LRIGs on your field are level 1 or higher.
 
 Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 level 3 SIGNI onto your field, then put the rest on the bottom of your deck in a random order.  Until end of turn, 1 target level 1 SIGNI gets [Assassin], 1 target level 2 SIGNI gets [Double Crush], and 1 target level 3 SIGNI gets [Lancer].  </text>
 			<prop>
@@ -16435,7 +16435,7 @@ Look at the top 8 cards of your deck.  Put up to 1 level 1, 1 level 2, and 1 lev
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 
-(Use Condition) [Team]:  Sanbaka] and all LRIGs on your field are level 1 or higher.
+(Use Condition) [Team]:  [Sanbaka] and all LRIGs on your field are level 1 or higher.
 
 Target 1 SIGNI on your opponent's field, and put it into the trash.  Target 1 SIGNI on your opponent's field, and return it to its owner's hand.  Target 1 Virtual SIGNI in your trash, and add it to your hand.</text>
 			<prop>
@@ -16851,7 +16851,7 @@ Target 1 SIGNI on your opponent's field, and put it into the trash.  Target 1 SI
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
-(Use Condition) [Team]:  No Limit] and all LRIGS on your field are level 1 or higher.
+(Use Condition) [Team]:  [No Limit] and all LRIGS on your field are level 1 or higher.
 
 Target 1 level 3 LRIG on your field, and it gets the following abilities until end of turn:
 "[Constant]:  [Double Crush]
@@ -167553,7 +167553,7 @@ Target 1 level 3 LRIG on your field, and it gets the following abilities until e
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
 			
-(Use Condition) [Team]:  No Limit] and all LRIGS on your field are level 1 or higher.
+(Use Condition) [Team]:  [No Limit] and all LRIGS on your field are level 1 or higher.
 
 Target 1 level 3 LRIG on your field, and it gets the following abilities until end of turn:
 "[Constant]:  [Double Crush]
