@@ -18421,7 +18421,7 @@ Crush 1 card in your opponent's Life Cloth.  Then target 1 SIGNI without [Guard]
 			</prop>
 		</card>
 		<card>
-			<name>Chime of the Blessed Key (WXDi-07)</name>
+			<name>Chime of the Blessed Key (WXDi-D07)</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Chime%20of%20the%20Blessed%20Key%20(WXDi-07).jpg">WDi-07</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -18483,7 +18483,7 @@ Draw 3 cards, then discard 2 cards from your hand.
 			</prop>
 		</card>
 		<card>
-			<name>Lancelot, Crimson General (WXDi-07)</name>
+			<name>Lancelot, Crimson General (WXDi-D07)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D07-015[EN].jpg">WDi-07</set>
 			<tablerow>2</tablerow>
 			<text>[Enter] {1}: Target 1 SIGNI on your opponent's field with 5000 power or lower, and vanish it.</text>
@@ -18599,7 +18599,7 @@ Draw 3 cards, then discard 2 cards from your hand.
 			</prop>
 		</card>
 		<card>
-			<name>Servant # (WXDi-07)</name>
+			<name>Servant # (WXDi-D07)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-D07-021[EN].jpg">WDi-07</set>
 			<tablerow>2</tablerow>
 			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
@@ -92819,7 +92819,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			</prop>
 		</card>
 		<card>
-			<name>Servant # (WXDi-08)</name>
+			<name>Servant # (WXDi-P08)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P08-082[EN].jpg">WXDi-P08</set>
 			<tablerow>2</tablerow>
 			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
