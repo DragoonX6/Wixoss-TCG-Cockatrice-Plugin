@@ -113086,6 +113086,40 @@ Target 1 SIGNI on your opponent's field, and it gets -2000 power until end of tu
 				<format-english>legal</format-english>
 			</prop>
 		</card>
+		<card>
+			<name>GATE</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P15-TK01A[EN].jpg">token</set>
+			<tablerow>0</tablerow>
+			<text>SIGNI Zones cannot have more than 1 [GATE] on them at a time.</text>
+			<prop>
+				<colors></colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type/>
+				<token>1</token>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>SIGNI Barrier (WXDi-P15)</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/SIGNI%20Barrier%20(WXDi-P15).jpg">WXDi-P15</set>
+			<tablerow>0</tablerow>
+			<text>(The next time you would take damage from a SIGNI, remove 1 [SIGNI Barrier] and you do not take that damage instead.)</text>
+			<prop>
+				<colors></colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type/>
+				<token>1</token>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
 		<!-- WXDi-P16 -->
 		<card>
 			<name>NEXT GATE</name>
