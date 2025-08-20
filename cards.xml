@@ -109637,6 +109637,29 @@ Draw 2 cards, then discard 2 cards from your hand.  Bond with any 1 student of y
 			</prop>
 		</card>
 		<card>
+			<name>Kosaka Wakamo (alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP02-059P[EN].jpg">WXDi-CP02</set>
+			<tablerow>2</tablerow>
+			<text>[Auto] [1/Turn]:  When this SIGNI crushes a card in your opponent's Life Cloth, you may put 3 Blue Archive cards from your Ener Zone into the trash.  If you do, at the beginning of this turn's next LRIG Attack Step, crush 1 card in your opponent's Life Cloth.
+
+[Bond Action] Down 2 upped LRIGs on your field:  [Ener Charge 1].
+
+[Life Burst]:  Choose one:
+- Target 1 upped SIGNI on your opponent's field, and vanish it.
+- [Ener Charge 1]</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>SIGNI|LB - War Tone: Blue Archive (DS)</type>
+				<pt>10000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva><format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
 			<name>Rikuhachima Aru</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP02-060[EN].jpg">WXDi-CP02</set>
 			<tablerow>2</tablerow>
@@ -110551,6 +110574,26 @@ Draw 2 cards, then discard 2 cards from your hand.  Bond with any 1 student of y
 			<name>Servant # (WXDi-CP02)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP02-104[EN].jpg">WXDi-CP02</set>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WX25/WX25-CD1-22.jpg">WX25-CD1</set>
+			<tablerow>2</tablerow>
+			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
+[Constant]:  [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
+
+[Life Burst]:  Target 1 SIGNI in your trash, and add it to your hand.</text>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI|LB - Primal Tone (DS)</type>
+				<pt>1000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva><format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Servant # (WXDi-CP02 alt)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP02-104P[EN].jpg">WXDi-CP02</set>
 			<tablerow>2</tablerow>
 			<text>[Guard] (By discarding this card from your hand, prevent 1 damage from a LRIG's attack.)
 [Constant]:  [Multi Ener] (If paying an ener cost, this card can pay for any 1 color of your choice.)
