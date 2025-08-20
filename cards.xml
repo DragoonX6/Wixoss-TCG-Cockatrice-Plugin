@@ -110705,6 +110705,78 @@ Draw 2 cards, then discard 2 cards from your hand.  Bond with any 1 student of y
 				<maintype>SPELL</maintype>
 			</prop>
 		</card>			
+		<card>
+			<name>Shirazu Azusa (WXDi-CP02 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP02-SP01SP[EN].jpg">WXDi-CP02</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>W</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - Azusa (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Mikamo Neru (WXDi-CP02 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP02-SP02SP[EN].jpg">WXDi-CP02</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>U</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - Neru (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Sunaookami Shiroko (WXDi-CP02 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP02-SP03SP[EN].jpg">WXDi-CP02</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>G</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - Shiroko (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Sorasaki Hina (WXDi-CP02 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-CP02-SP04SP[EN].jpg">WXDi-CP02</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>B</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - Hina (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
 		<!-- WXDi-P15 -->
 		<card>
 			<name>Liberators' Force</name>
