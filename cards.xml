@@ -112978,6 +112978,114 @@ Target 1 SIGNI on your opponent's field, and it gets -2000 power until end of tu
 				<format-english>legal</format-english>
 			</prop>
 		</card>
+		<card>
+			<name>Ril (WXDi-P15 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P15-SP01SP[EN].jpg">WXDi-P15</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>R</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - Ril (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Eldora (WXDi-P15 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P15-SP02SP[EN].jpg">WXDi-P15</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>U</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - Eldora (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Carnival (WXDi-P15 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P15-SP03SP[EN].jpg">WXDi-P15</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>G</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - Carnival (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Guzuko (WXDi-P15 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P15-SP04SP[EN].jpg">WXDi-P15</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>B</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - Guzuko (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>LION (WXDi-P15 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P15-SP05SP[EN].jpg">WXDi-P15</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>W</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - LION [Card Jockey] (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
+			<name>Tamago (WXDi-P15 SP)</name>
+			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P15-SP06SP[EN].jpg">WXDi-P15</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<colors>U</colors>
+				<manacost>0 - 0</manacost>
+				<cmc>0</cmc>
+				<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type>
+				<loyalty>0</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
 		<!-- WXDi-P16 -->
 		<card>
 			<name>NEXT GATE</name>
