@@ -170212,6 +170212,30 @@ If the shared color is black, your opponent puts the top 20 cards of their deck 
 </text>
 		</card>
 		<card>
+			<name>Contempora, Jade Beauty Queen (PR-Di044)</name>
+			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Contempora%2C%20Jade%20Beauty%20Queen%20(PR-Di044)
+.jpg">PR</set>
+			<tablerow>2</tablerow>
+			<text>[Constant]:  SIGNI on your field get [Shadow (Level 1)] and [Shadow (Level 2)] during your opponent's turn.
+[Auto]:  When this SIGNI is put from any zone into the trash by your opponent's card effect, you may pay {1}.  If you do, add this SIGNI from your trash to your hand.
+
+[Life Burst]:  Choose one:
+-  Target 1 upped SIGNI on your opponent's field, and vanish it.
+- [Ener Charge 1]</text>
+			<prop>
+				<colors>G</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>SIGNI|LB - Idol Tone: Beauty (DS)</type>
+				<pt>12000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+				<format-key>legal</format-key>
+				<format-diva>legal</format-diva>
+				<format-english>legal</format-english>
+			</prop>
+		</card>
+		<card>
 			<name>Servant # (PR-Di049)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di049.jpg">PR</set>
 			<tablerow>2</tablerow>
