@@ -123834,7 +123834,7 @@ All LRIGs on your field get the following abilities until end of turn:
 				<pt>8000</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<text>[Action] [1/Turn {1}, Put 1 other Demon SIGNI on your field into the trash:  Target 1 black SIGNI in yoru trash, and put it onto your field.
+			<text>[Action] [1/Turn] {1}, Put 1 other Demon SIGNI on your field into the trash:  Target 1 black SIGNI in yoru trash, and put it onto your field.
 </text>
 		</card>
 		<card>
