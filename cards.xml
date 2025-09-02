@@ -19675,8 +19675,8 @@ Target 1 SIGNI on your opponent's field with 8000 power or lower, and return it 
 (Recollect effects are active when the number of ARTS in your LRIG trash is of the specified number.) </text>
 			<prop>
 				<colors>W</colors>
-				<manacost>0</manacost>
-				<cmc>0</cmc>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<type>ARTS - (DS)</type>
 				<maintype>ARTS</maintype>
 				<format-allstar>legal</format-allstar>
