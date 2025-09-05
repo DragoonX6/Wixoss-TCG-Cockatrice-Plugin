@@ -24002,7 +24002,7 @@ You may put all SIGNI on your field into the trash.  If you put 3 SIGNI with dif
 			<name>Pencilrocket, Explosive Gun</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX03/WX03-017.jpg">WX03</set>
 			<tablerow>2</tablerow>
-			<text>[Enter] {R}[R}, Put a red ARTS from your LRIG Deck into your LRIG Trash: Vanish 1 SIGNI on your opponent's field with 10000 power or lower.</text>
+			<text>[Enter] {R}{R}, Put a red ARTS from your LRIG Deck into your LRIG Trash: Vanish 1 SIGNI on your opponent's field with 10000 power or lower.</text>
 			<prop>
 				<colors>R</colors>
 				<manacost>2</manacost>
@@ -79438,7 +79438,7 @@ Draw 1 card, then [Ener Charge 1].</text>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P01-087[EN].jpg">WXDi-P01</set>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI is put from the field into the trash by a cost or effect, target 1 level 2 or lower black SIGNI in your trash, then you may pay {1}.  If you do, put that SIGNI onto the field downed.
-[Enter] {1]:  Target 1 SIGNI without [Guard] in your trash, and put it into your Ener Zone.
+[Enter] {1}:  Target 1 SIGNI without [Guard] in your trash, and put it into your Ener Zone.
 
 [Life Burst]:  Target 1 SIGNI without [Guard] in your trash, and add it to your hand or put it onto the field.</text>
 			<prop>
@@ -120454,7 +120454,7 @@ Target 1 SIGNI on your opponent's field, and it gets -10000 power until end of t
 Choose one:
 - Target 1 SIGNI on your opponent's field, and down it.
 - Target 1 SPELL being used, and you may pay an amount of {1} equal to that SPELL's total cost.  If you do, cancel that SPELL.   If you have used "Anti Spell X" once this turn, you may return this card to your LRIG deck.
-(Total cost refers to the total amount of ener in the ener cost at the top left of the card.  For example, if a card's cost is {2}[W}, the total cost of that card is {3}.) 
+(Total cost refers to the total amount of ener in the ener cost at the top left of the card.  For example, if a card's cost is {2}{W}, the total cost of that card is {3}.)
 </text>
 		</card>
 		<card>
