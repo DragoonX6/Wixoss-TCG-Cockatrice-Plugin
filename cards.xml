@@ -37935,7 +37935,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand.  </text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-037.jpg">WX13</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  When this SIGNI is vanished, your opponent attaches the top card of their deck to 1 SIGNI on their field as a [Charm] for each SIGNI on their field.
-[Constant]:  When a Insect SIGNI on your field attacks, 1 SIGNI on your opponent's field gets -4000 power until end of turn.
+[Constant]:  When an Insect SIGNI on your field attacks, 1 SIGNI on your opponent's field gets -4000 power until end of turn.
 [Enter]:  Put 2 [Charm]s on your opponent's field into the trash.  If you do not, put this SIGNI into the trash.  </text>
 			<prop>
 				<colors>B</colors>
@@ -45082,9 +45082,9 @@ Vanish 1 level 3 SIGNI on your opponent's field.</text>
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this card is put from your hand into the trash, you may pay {1}{U}{U}.  If you do, vanish 1 SIGNI on your opponent's field.
 [Auto]:  At the beginning of each Attack Phase, you may return this SIGNI from your field to its owner's hand.
-[Action] [Spell Cut-In] Discard this card from your hand: If there is a Insect SIGNI on your field, cancel the effect of 1 SPELL with total cost 0 being used.
+[Action] [Spell Cut-In] Discard this card from your hand: If there is an Insect SIGNI on your field, cancel the effect of 1 SPELL with total cost 0 being used.
 
-[Life Burst]:  Draw 1 card.  If there is a Insect SIGNI on your field, your opponent discards 1 card from their hand.  </text>
+[Life Burst]:  Draw 1 card.  If there is an Insect SIGNI on your field, your opponent discards 1 card from their hand.  </text>
 			<prop>
 				<colors>U</colors>
 				<manacost>4</manacost>
@@ -47636,7 +47636,7 @@ Declare 1 SIGNI card name.  Reveal cards from the top of your deck until you rev
 			<name>§Ibarakan§, Phantom Insect</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX18/WX18-071.jpg">WX18</set>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]:  When a Insect is put from the trash onto your field (including this SIGNI), put the top card of your deck into your Ener Zone.  </text>
+			<text>[Auto] [1/Turn]:  When an Insect is put from the trash onto your field (including this SIGNI), put the top card of your deck into your Ener Zone.  </text>
 			<prop>
 				<colors>U</colors>
 				<manacost>2</manacost>
@@ -47651,7 +47651,7 @@ Declare 1 SIGNI card name.  Reveal cards from the top of your deck until you rev
 			<name>§Kameari§, Phantom Insect</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX18/WX18-072.jpg">WX18</set>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]:  When a Insect is put from the trash onto your field (including this SIGNI), draw 1 card.</text>
+			<text>[Auto] [1/Turn]:  When an Insect is put from the trash onto your field (including this SIGNI), draw 1 card.</text>
 			<prop>
 				<colors>U</colors>
 				<manacost>1</manacost>
@@ -50814,7 +50814,7 @@ Choose up to two:
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, draw 1 card, then discard 1 card from your hand.
 [Auto]:  When this SIGNI attacks, if there is another Insect SIGNI on your field, draw 1 card.
-[Auto]:  When you draw 1 card by the effect of a Insect SIGNI on your field, 1 SIGNI on your opponent's field gets −4000 power until end of turn.
+[Auto]:  When you draw 1 card by the effect of an Insect SIGNI on your field, 1 SIGNI on your opponent's field gets −4000 power until end of turn.
 
 [Life Burst]:  Draw 1 card.  Then you may discard 1 card from your hand.  If you do, down your opponent's LRIGs or 1 SIGNI on your opponent's field.  </text>
 			<prop>
@@ -138732,7 +138732,7 @@ Choose one.  If you put 3 PriOrche cards into the trash as you used this ARTS, c
 			<tablerow>2</tablerow>
 			<text>[Auto]:  When this SIGNI attacks, you may discard any number of Insect SIGNI from your hand.  If you discarded 1 or more cards this way, draw that many cards plus 1.
 [Enter] {U}: This SIGNI becomes a cheer girl.
-[Auto]:  When this card is put from your hand into the trash to pay a cost or by a Insect SIGNI's effect, you may put this SIGNI from your trash onto the field.
+[Auto]:  When this card is put from your hand into the trash to pay a cost or by an Insect SIGNI's effect, you may put this SIGNI from your trash onto the field.
 
 [Life Burst]:  Discard 1 card from your hand.  Your opponent discards 2 cards from their hand.</text>
 			<prop>
