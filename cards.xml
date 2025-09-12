@@ -7666,7 +7666,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
-Choose up to two.  If you have a Urith LRIG, choose up to three instead:
+Choose up to two.  If you have an Urith LRIG, choose up to three instead:
 - 1 SIGNI on your opponent's field gets -12000 power until end of turn.
 - Put 1 level 3 or lower SIGNI from your trash onto your field.
 - Add 1 SIGNI from your trash to your hand.
@@ -13094,7 +13094,7 @@ Exclude 3 cards in your opponent's trash from the game.  If those cards share a 
 			<name>Hanare, Mourner of Fascination</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Mourner%20of%20Fascination.jpg">WDK10</set>
 			<tablerow>0</tablerow>
-			<text>[Enter]:  Put the top 3 cards of your deck into the trash, then add 1 black SIGNI from your trash to your hand.  If you have a Urith LRIG, add 1 more black SIGNI from your trash to your hand.
+			<text>[Enter]:  Put the top 3 cards of your deck into the trash, then add 1 black SIGNI from your trash to your hand.  If you have an Urith LRIG, add 1 more black SIGNI from your trash to your hand.
 [Action] [1/Turn] Discard 1 card from your hand: Choose 1 SIGNI Zone on your opponent's field.  Until your next turn, SIGNI on that SIGNI Zone get -2000 multiplied by its level.</text>
 			<prop>
 				<colors>B</colors>
@@ -34671,7 +34671,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
-Choose up to two.  If you have a Urith LRIG, choose up to three instead:
+Choose up to two.  If you have an Urith LRIG, choose up to three instead:
 - 1 SIGNI on your opponent's field gets -12000 power until end of turn.
 - Put 1 level 3 or lower SIGNI from your trash onto your field.
 - Add 1 SIGNI from your trash to your hand.
@@ -47381,7 +47381,7 @@ Declare 1 SIGNI card name.  Reveal cards from the top of your deck until you rev
 			<name>Kiragou, Traditional Oni Dance</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX18/WX18-055.jpg">WX18</set>
 			<tablerow>2</tablerow>
-			<text>[Action] [Attack Phase] {B}{B} Discard this card from your hand: Until end of turn, 1 SIGNI on your opponent's field gets -7000 power until end of turn.  Use this ability only if you have a Urith LRIG.
+			<text>[Action] [Attack Phase] {B}{B} Discard this card from your hand: Until end of turn, 1 SIGNI on your opponent's field gets -7000 power until end of turn.  Use this ability only if you have an Urith LRIG.
 
 [Life Burst]:  Draw 1 card.  </text>
 			<prop>
@@ -47974,7 +47974,7 @@ Declare 1 SIGNI card name.  Reveal cards from the top of your deck until you rev
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase] 
 		
-Choose up to two.  If you have a Urith LRIG, choose up to three instead:
+Choose up to two.  If you have an Urith LRIG, choose up to three instead:
 - 1 SIGNI on your opponent's field gets -12000 power until end of turn.
 - Put 1 level 3 or lower SIGNI from your trash onto your field.
 - Add 1 SIGNI from your trash to your hand.
@@ -64949,7 +64949,7 @@ Down 1 SIGNI on your opponent's field.  Draw 2 cards, then your opponent discard
 			<tablerow>0</tablerow>
 			<text>Use Timing [Attack Phase] 
 		
-This ARTS costs {B}{B} less to use if you have a Urith LRIG.
+This ARTS costs {B}{B} less to use if you have an Urith LRIG.
 1 SIGNI on your opponent's field gets −12000 power until end of turn.  Add 1 black SIGNI from your trash to your hand.  Add the top card of your deck to your Life Cloth.</text>
 			<prop>
 				<colors>B</colors>
@@ -66246,7 +66246,7 @@ Choose one:
 			<name>Drummy, Phantom Dragon</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK06/WXK06-078.jpg">WXK06</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  During your Main Phase, when this SIGNI is put from your hand or deck into the trash, if you have a Urith LRIG, you may [Ener Charge 1].  If you do, end this Main Phase.
+			<text>[Auto]:  During your Main Phase, when this SIGNI is put from your hand or deck into the trash, if you have an Urith LRIG, you may [Ener Charge 1].  If you do, end this Main Phase.
 		
 [Life Burst]:  Draw 1 card.</text>
 			<prop>
@@ -149557,7 +149557,7 @@ Vanish exactly 3 SIGNI on the field with the same power as each other.</text>
 			<name>Hanare, Mourner of Fascination (SPK16)</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Hanare%2C%20Mourner%20of%20Fascination%20%28SPK16%29.png">SPK16</set>
 			<tablerow>0</tablerow>
-			<text>[Enter]:  Put the top 3 cards of your deck into the trash, then add 1 black SIGNI from your trash to your hand.  If you have a Urith LRIG, add 1 more black SIGNI from your trash to your hand.
+			<text>[Enter]:  Put the top 3 cards of your deck into the trash, then add 1 black SIGNI from your trash to your hand.  If you have an Urith LRIG, add 1 more black SIGNI from your trash to your hand.
 [Action] [1/Turn] Discard 1 card from your hand: Choose 1 SIGNI Zone on your opponent's field.  Until your next turn, SIGNI on that SIGNI Zone get -2000 multiplied by its level.</text>
 			<prop>
 				<colors>B</colors>
