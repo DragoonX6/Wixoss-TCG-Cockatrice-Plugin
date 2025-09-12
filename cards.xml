@@ -31526,7 +31526,7 @@ Put 1 SIGNI from your trash onto your field.  </text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX09/WX09-018.jpg">WX09</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  While there are 5 or more SPELLs in your trash, this SIGNI's power becomes 15000 and is unaffected your opponent's SIGNI effects.
-[Constant]:  When this SIGNI attacks, if you used 3 or more SPELLs this turn, vanish 1 SIGNI on your opponent's field.
+[Auto]:  When this SIGNI attacks, if you used 3 or more SPELLs this turn, vanish 1 SIGNI on your opponent's field.
 [Action] {Down}: The next SPELL you use this turn costs {2} less to use.
 
 [Life Burst]:  Add up to 2 SPELLs from your trash to your hand.  </text>
