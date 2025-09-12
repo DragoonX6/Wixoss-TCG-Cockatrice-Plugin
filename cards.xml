@@ -7702,7 +7702,7 @@ Choose one:
 			<name>Guzuko, Worthless Queen of Fulfillment</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD22/WD22-007-G.jpg">WD22</set>
 			<tablerow>0</tablerow>
-			<text>[Auto] [1/Turn]:  When a Amuser SIGNI put from your trash onto your field, you may pay {B} and put that SIGNI into your trash.  If you do, vanish 1 SIGNI on your opponent's field.
+			<text>[Auto] [1/Turn]:  When an Amuser SIGNI put from your trash onto your field, you may pay {B} and put that SIGNI into your trash.  If you do, vanish 1 SIGNI on your opponent's field.
 [Enter] Pay 1 Coin: Put up to 2 black SIGNI from your trash onto your field.  </text>
 			<prop>
 				<colors>B</colors>
@@ -23112,7 +23112,7 @@ Put 1 SIGNI on your field into the trash.  If you do, vanish 1 SIGNI on your opp
 			<tablerow>3</tablerow>
 			<text>Vanish 1 of your Aquatic Beast SIGNI.  If you do, draw 2 cards.
 		
-[Life Burst]:  Draw 1 card.  If there is a Aquatic Beast SIGNI on your field, draw 1 more card.</text>
+[Life Burst]:  Draw 1 card.  If there is an Aquatic Beast SIGNI on your field, draw 1 more card.</text>
 			<prop>
 				<colors>U</colors>
 				<manacost>1U</manacost>
@@ -23143,7 +23143,7 @@ Put 1 SIGNI on your field into the trash.  If you do, vanish 1 SIGNI on your opp
 			<name>Hachi, Phantom Beast</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX02/WX02-039.jpg">WX02</set>
 			<tablerow>2</tablerow>
-			<text>[Action] {Down}: Reveal the top card of your deck.  If it is a Aerial Beast or Terra Beast SIGNI, add it to your hand.
+			<text>[Action] {Down}: Reveal the top card of your deck.  If it is an Aerial Beast or Terra Beast SIGNI, add it to your hand.
 		
 [Life Burst]:  Draw 1 card.</text>
 			<prop>
@@ -38177,7 +38177,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand.  </text>
 			<name>Koinobori, Third Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-052.jpg">WX13</set>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  When this SIGNI vanishes a SIGNI on your opponent's field, reveal the top card of your deck.  If it is a Amuser SIGNI, you may vanish this SIGNI.  If you do, put the SIGNI revealed this way onto your field downed.  </text>
+			<text>[Constant]:  When this SIGNI vanishes a SIGNI on your opponent's field, reveal the top card of your deck.  If it is an Amuser SIGNI, you may vanish this SIGNI.  If you do, put the SIGNI revealed this way onto your field downed.  </text>
 			<prop>
 				<colors>G</colors>
 				<manacost>3</manacost>
@@ -38494,7 +38494,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand.  </text>
 			<name>Idabiuo, Phantom Aquatic Beast</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-072.jpg">WX13</set>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  When a Aquatic Beast SIGNI enters your field (including this SIGNI), look at the top card of your opponent's Life Cloth.</text>
+			<text>[Constant]:  When an Aquatic Beast SIGNI enters your field (including this SIGNI), look at the top card of your opponent's Life Cloth.</text>
 			<prop>
 				<colors>U</colors>
 				<manacost>3</manacost>
@@ -39550,7 +39550,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand.  If
 			<text>[Constant]:  When a card is added from your Ener Zone to your hand, you may vanish this SIGNI.  If you do, you may put 1 SIGNI from your Ener Zone onto your field downed.
 [Constant]:  When this SIGNI is put from your hand or deck into the trash, if you have an Aiyai LRIG, put this SIGNI from your trash into your Ener Zone.
 
-[Life Burst]:  Put the top card of your deck into your Ener Zone.  Then if that card was a Amuser SIGNI, draw 1 card.  </text>
+[Life Burst]:  Put the top card of your deck into your Ener Zone.  Then if that card was an Amuser SIGNI, draw 1 card.  </text>
 			<prop>
 				<colors>G</colors>
 				<manacost>3</manacost>
@@ -39785,7 +39785,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand.  If
 			<name>Tonbi, Phantom Beast</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX14/WX14-043.jpg">WX14</set>
 			<tablerow>2</tablerow>
-			<text>[Enter]:  Reveal the top card of your deck.  If it is a Aerial Beast SIGNI, add it to your hand.
+			<text>[Enter]:  Reveal the top card of your deck.  If it is an Aerial Beast SIGNI, add it to your hand.
 		
 [Life Burst]:  Draw 1 card.</text>
 			<prop>
@@ -46475,7 +46475,7 @@ Vanish exactly 3 SIGNI on the field with the same power as each other.</text>
 			<name>Guzuko, Worthless Queen of Pitiful Sin</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX18/WX18-002.jpg">WX18</set>
 			<tablerow>0</tablerow>
-			<text>[Auto] [1/Turn]:  When a Amuser SIGNI on your field is vanished during your opponent's Attack Phase, reveal the top card of your deck.  If it is a Amuser SIGNI, you may put it onto the field.
+			<text>[Auto] [1/Turn]:  When an Amuser SIGNI on your field is vanished during your opponent's Attack Phase, reveal the top card of your deck.  If it is an Amuser SIGNI, you may put it onto the field.
 [Enter]:  Search your deck for 1 Amuser SIGNI and put it onto your field.  Shuffle your deck.
 [Action] ((Direct)) [1/Turn] Pay 2 Coins: When your opponent is damaged this turn, crush 1 card in your opponent's Life Cloth.  </text>
 			<prop>
@@ -47332,7 +47332,7 @@ Declare 1 SIGNI card name.  Reveal cards from the top of your deck until you rev
 			<name>Mozu, Phantom Beast</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX18/WX18-052.jpg">WX18</set>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]:  During your Main Phase, when a Aerial Beast or Terra Beast enters your field while this SIGNI is downed, up this SIGNI.  
+			<text>[Auto] [1/Turn]:  During your Main Phase, when an Aerial Beast or Terra Beast enters your field while this SIGNI is downed, up this SIGNI.  
 [Action] {Down}: 1 SIGNI on your field gets +4000 power until end of turn.  </text>
 			<prop>
 				<colors>G</colors>
@@ -47413,7 +47413,7 @@ Declare 1 SIGNI card name.  Reveal cards from the top of your deck until you rev
 			<name>†Miyakokeshi†, Different Blood Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX18/WX18-057.jpg">WX18</set>
 			<tablerow>2</tablerow>
-			<text>[Action] {Down}: Reveal the top card of your deck.  If it is a Amuser SIGNI, add it to your hand.
+			<text>[Action] {Down}: Reveal the top card of your deck.  If it is an Amuser SIGNI, add it to your hand.
 			
 [Life Burst]:  Draw 1 card.</text>
 			<prop>
@@ -48158,7 +48158,7 @@ Choose up to two.  If you bet, choose up to three instead:
 			<name>Hachi, Phantom Beast (WX18)</name>
 			<set picURL="https://img.yuyu-tei.jp/card_image/wx/front/wx18/10227.jpg">WX18</set>
 			<tablerow>2</tablerow>
-			<text>[Action] {Down}: Reveal the top card of your deck.  If it is a Aerial Beast or Terra Beast SIGNI, add it to your hand.
+			<text>[Action] {Down}: Reveal the top card of your deck.  If it is an Aerial Beast or Terra Beast SIGNI, add it to your hand.
 		
 [Life Burst]:  Draw 1 card.</text>
 			<prop>
@@ -48509,7 +48509,7 @@ Choose up to two.  If you bet, choose up to three instead:
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX19/WX19-003.jpg">WX19</set>
 			<tablerow>0</tablerow>
 			<text>[Constant]:  Your maximum hand size is increased by 2.  (From 6 to 8.)
-[Auto] [1/Turn]:  When a Aquatic Beast leaves your field during your opponent's turn, you may put 1 Aquatic Beast SIGNI with a lower level that SIGNI's level from your hand onto the field.
+[Auto] [1/Turn]:  When an Aquatic Beast leaves your field during your opponent's turn, you may put 1 Aquatic Beast SIGNI with a lower level that SIGNI's level from your hand onto the field.
 [Enter]:  Draw 2 cards for each Aquatic Beast SIGNI on your field.
 [Action] [2/Turn] [Attack Phase] {Exceed 1}: Search your deck for 1 Aquatic Beast SIGNI and put it onto your field.  Shuffle your deck.  </text>
 			<prop>
@@ -48904,7 +48904,7 @@ Put 1 Aquatic Beast SIGNI from your hand onto your field.  </text>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX19/WX19-026.jpg">WX19</set>
 			<tablerow>2</tablerow>
 			<text>[Auto] [1/Turn]:  When this SIGNI attacks, declare 1 card name.  Your opponent reveals the top card of their deck.  If it is the declared card, put it into the trash, then up this SIGNI.
-[Auto]:  When a Aquatic Beast SIGNI leaves your field by your opponent's card effect, you may draw 1 card.
+[Auto]:  When an Aquatic Beast SIGNI leaves your field by your opponent's card effect, you may draw 1 card.
 
 [Life Burst]:  Choose one:
 - Draw 1 card.  
@@ -49484,7 +49484,7 @@ Put 1 Aquatic Beast SIGNI from your hand onto your field.  </text>
 			<name>Suzuki, Phantom Aquatic Beast</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX19/WX19-061.jpg">WX19</set>
 			<tablerow>2</tablerow>
-			<text>[Enter]:  Reveal the top card of your deck.  If it is a blue card, look at the top card of your opponent's deck.  If your revealed card is a Aquatic Beast SIGNI, draw 1 card.  If your revealed card is a SPELL, you may swap the top card of your opponent's deck with the top card of your opponent's Life Cloth.
+			<text>[Enter]:  Reveal the top card of your deck.  If it is a blue card, look at the top card of your opponent's deck.  If your revealed card is an Aquatic Beast SIGNI, draw 1 card.  If your revealed card is a SPELL, you may swap the top card of your opponent's deck with the top card of your opponent's Life Cloth.
 
 [Life Burst]:  Draw 1 card.  </text>
 			<prop>
@@ -53150,8 +53150,8 @@ Choose up to two:
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX21/WX21-044.jpg">WX21</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  While this SIGNI is in your Ener Zone, when you would pay {G}, you may put this SIGNI from your Ener Zone into the trash instead.
-[Enter]:  When this SIGNI is put from your hand onto your field by the effect of a Amuser SIGNI, put the top 2 cards of your deck into your Ener Zone.
-[Enter]:  When this SIGNI is put from your trash onto your field by the effect of a Amuser SIGNI, add 1 Amuser SIGNI from your trash to your hand.
+[Enter]:  When this SIGNI is put from your hand onto your field by the effect of an Amuser SIGNI, put the top 2 cards of your deck into your Ener Zone.
+[Enter]:  When this SIGNI is put from your trash onto your field by the effect of an Amuser SIGNI, add 1 Amuser SIGNI from your trash to your hand.
 
 [Life Burst]:  Add 1 Amuser SIGNI from your trash to your hand.  </text>
 			<prop>
@@ -54270,7 +54270,7 @@ Choose one:
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Put up to 2 Amuser SIGNI from your trash onto your field.
 [Action] [1/Turn] [Main Phase] [Attack Phase] {0}: Put 1 Amuser SIGNI from your field into the trash.  If you do, 1 SIGNI on your opponent's field gets -12000 power until end of turn.
-[Action] [Attack Phase] Pay 2 Coins: When a Amuser SIGNI leaves your field during this Attack Phase, put 1 Amuser SIGNI whose level is lower than that SIGNI's level from your hand onto your field.  </text>
+[Action] [Attack Phase] Pay 2 Coins: When an Amuser SIGNI leaves your field during this Attack Phase, put 1 Amuser SIGNI whose level is lower than that SIGNI's level from your hand onto your field.  </text>
 			<prop>
 				<colors>B</colors>
 				<manacost>5 - BB</manacost>
@@ -58844,7 +58844,7 @@ Choose one:
 			<name>Yubinin, Great Knowledge Play</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WXK02/WXK02-044.jpg">WXK02</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When this SIGNI attacks, reveal the top card of your deck.  If it is a Amuser SIGNI, put it into your Ener Zone.
+			<text>[Auto]:  When this SIGNI attacks, reveal the top card of your deck.  If it is an Amuser SIGNI, put it into your Ener Zone.
 			
 [Life Burst]:  [Ener Charge 1].</text>
 			<prop>
@@ -62491,7 +62491,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then 1 SIGNI on
 			<name>Tiger Salaman, Phantom Aquatic Beast</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK04/WXK04-057.jpg">WXK04</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When this SIGNI attacks, reveal the top card of your deck.  If it is a Aquatic Beast SIGNI, put it into your Ener Zone.
+			<text>[Auto]:  When this SIGNI attacks, reveal the top card of your deck.  If it is an Aquatic Beast SIGNI, put it into your Ener Zone.
 			
 [Life Burst]:  Draw 1 card.</text>
 			<prop>
@@ -64158,7 +64158,7 @@ Choose one:
 			<name>Duck Captain, Great Knowledge Play</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK05/WXK05-049.jpg">WXK05</set>
 			<tablerow>2</tablerow>
-			<text>[Enter] {W}: Reveal the top card of your deck.  If it is a Amuser SIGNI, add it to your hand.</text>
+			<text>[Enter] {W}: Reveal the top card of your deck.  If it is an Amuser SIGNI, add it to your hand.</text>
 			<prop>
 				<colors>W</colors>
 				<manacost>1</manacost>
@@ -64574,7 +64574,7 @@ Choose one:
 			<name>Nekokero, Phantom Aquatic Beast</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXK05/WXK05-074.jpg">WXK05</set>
 			<tablerow>2</tablerow>
-			<text>[Enter] {G}: Reveal the top card of your deck.  If it is a Aquatic Beast SIGNI, add it to your hand.</text>
+			<text>[Enter] {G}: Reveal the top card of your deck.  If it is an Aquatic Beast SIGNI, add it to your hand.</text>
 			<prop>
 				<colors>G</colors>
 				<manacost>1</manacost>
@@ -137088,7 +137088,7 @@ Choose one.  If you put 3 PriOrche cards into the trash as you used this ARTS, c
 			<name>Guzuko, Worthless Queen of Tragic Heroism</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXEX1/WXEX1-25.jpg">WXEX1</set>
 			<tablerow>0</tablerow>
-			<text>[Auto] [1/Turn]:  When a Amuser SIGNI is put from your trash onto your field during your turn, put 1 Amuser SIGNI with a lower level than that SIGNI from your trash onto your field.
+			<text>[Auto] [1/Turn]:  When an Amuser SIGNI is put from your trash onto your field during your turn, put 1 Amuser SIGNI with a lower level than that SIGNI from your trash onto your field.
 [Enter]:  Look at the top 5 cards of your deck.  Add 1 card from among them to your hand, put 1 card from among them into the trash, then put the rest on the bottom of your deck in any order.</text>
 			<prop>
 				<colors>B</colors>
@@ -137588,7 +137588,7 @@ Choose one.  If you put 3 PriOrche cards into the trash as you used this ARTS, c
 			<name>Atarinashi, Death Play Queen</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXEX1/WXEX1-52.jpg">WXEX1</set>
 			<tablerow>2</tablerow>
-			<text>[Auto] [1/Turn]:  When a Amuser SIGNI is put from your field into the trash during the Attack Phase, put 1 Amuser SIGNI whose level is lower that SIGNI's level from your trash onto your field.
+			<text>[Auto] [1/Turn]:  When an Amuser SIGNI is put from your field into the trash during the Attack Phase, put 1 Amuser SIGNI whose level is lower that SIGNI's level from your trash onto your field.
 [Enter]:  Put 1 other SIGNI on your field into the trash.  If you do, vanish 1 SIGNI on your opponent's field.
 
 [Life Burst]:  Vanish 1 SIGNI on your opponent's field, then put 1 SIGNI from your field into the trash.</text>
@@ -138264,7 +138264,7 @@ Choose one.  If you put 3 PriOrche cards into the trash as you used this ARTS, c
 			<name>Eldora×Mark V ULTRA</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXEX2/WXEX2-13.jpg">WXEX2</set>
 			<tablerow>0</tablerow>
-			<text>[Auto] [1/Turn]:  When a Aquatic Beast SIGNI on your field attacks, search your deck for 1 card with [Life Burst] and put it into the Check Zone.  Activate the [Life Burst] ability of that card, then put it into your Ener Zone.  Shuffle your deck.
+			<text>[Auto] [1/Turn]:  When an Aquatic Beast SIGNI on your field attacks, search your deck for 1 card with [Life Burst] and put it into the Check Zone.  Activate the [Life Burst] ability of that card, then put it into your Ener Zone.  Shuffle your deck.
 [Enter]:  Search your deck for 1 card, add it to your Life Cloth, then crush 1 card in your Life Cloth.  Shuffle your deck.
 [Action] [1/Turn] {Exceed 1}: Draw 2 cards.
 [Action] {Exceed 3}: Add 1 card from your hand to your Life Cloth.</text>
@@ -138350,7 +138350,7 @@ Choose one.  If you put 3 PriOrche cards into the trash as you used this ARTS, c
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXEX2/WXEX2-18.jpg">WXEX2</set>
 			<tablerow>0</tablerow>
 			<text>[Coin] 2 (You get 2 Coins as this LRIG is put onto your field.)
-[Auto] [1/Turn]:  When a Amuser SIGNI on your field attacks, up that SIGNI.
+[Auto] [1/Turn]:  When an Amuser SIGNI on your field attacks, up that SIGNI.
 [Action] [1/Turn] {0}: Target 1 SIGNI on your opponent's field, and vanish 1 non-RESONA Amuser SIGNI on your field.  If you do, put that opponent's SIGNI into the Ener Zone.
 [Action] [Attack Phase] Pay 2 Coins: [Ener Charge 3], then target up to 5 Amuser SIGNI in your Ener Zone, and add them to your hand.</text>
 			<prop>
@@ -138749,7 +138749,7 @@ Choose one.  If you put 3 PriOrche cards into the trash as you used this ARTS, c
 			<name>Gupipi, Aquatic Phantom Queen</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WXEX2/WXEX2-40.jpg">WXEX2</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When a Aquatic Beast SIGNI on your field vanishes a SIGNI on your opponent's field by battle, you may activate the [Life Burst] ability of the vanished SIGNI as if it were in your Check Zone.
+			<text>[Auto]:  When an Aquatic Beast SIGNI on your field vanishes a SIGNI on your opponent's field by battle, you may activate the [Life Burst] ability of the vanished SIGNI as if it were in your Check Zone.
 [Enter] {U}: This SIGNI becomes a cheer girl.
 [Action] [1/Turn] {U}: Draw 3 cards.  At the end of this turn, discard 2 cards from your hand.
 
@@ -139768,7 +139768,7 @@ Choose one.  If you put 3 PriOrche cards into the trash as you used this ARTS, c
 			<tablerow>0</tablerow>
 			<text>[Enter]:  Put up to 2 Amuser SIGNI from your trash onto your field.
 [Action] [1/Turn] [Main Phase] [Attack Phase] {0}: Put 1 Amuser SIGNI from your field into the trash.  If you do, 1 SIGNI on your opponent's field gets -12000 power until end of turn.
-[Action] [Attack Phase] Pay 2 Coins: When a Amuser SIGNI leaves your field during this Attack Phase, put 1 Amuser SIGNI whose level is lower than that SIGNI's level from your hand onto your field.  </text>
+[Action] [Attack Phase] Pay 2 Coins: When an Amuser SIGNI leaves your field during this Attack Phase, put 1 Amuser SIGNI whose level is lower than that SIGNI's level from your hand onto your field.  </text>
 			<prop>
 				<colors>B</colors>
 				<manacost>5 - BB</manacost>
@@ -143906,7 +143906,7 @@ Choose one.  If there are 2 or less cards in your Life Cloth, choose two instead
 			<name>Ayu, Phantom Aquatic Beast</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP27/SP27-005.jpg">SP27</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When this SIGNI is vanished, you may pay {U}.  If you do, reveal cards from the top of your deck until you reveal a Aquatic Beast SIGNI.  Either add that SIGNI to your hand or put it onto your field.  Then put the rest of the revealed cards on the bottom of your deck in a random order.
+			<text>[Auto]:  When this SIGNI is vanished, you may pay {U}.  If you do, reveal cards from the top of your deck until you reveal an Aquatic Beast SIGNI.  Either add that SIGNI to your hand or put it onto your field.  Then put the rest of the revealed cards on the bottom of your deck in a random order.
 			
 [Life Burst]:  Draw 1 card.  </text>
 			<prop>
