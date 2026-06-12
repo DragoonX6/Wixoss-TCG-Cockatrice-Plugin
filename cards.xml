@@ -170259,6 +170259,7 @@ If the shared color is black, your opponent puts the top 20 cards of their deck 
 		<card>
 			<name>Familiar Enhance (PR-Di058)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/PR/PR-Di058.jpg">PR</set>
+			<prop>
 				<colors>C</colors>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
