@@ -1999,7 +1999,7 @@ Declare 1 number.  Look at your opponent's hand, then discard all SIGNI with the
 			</prop>
 		</card>
 		<card>
-			<name>Don't Move</name>
+			<name>Don't Move </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD03/WD03-007.jpg">WD03</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD03/WD03-007.jpg">SP05</set>
 			<tablerow>0</tablerow>
@@ -6427,7 +6427,7 @@ All Cooking SIGNI on your field get "When this SIGNI attacks, vanish 1 SIGNI on 
 			</prop>
 		</card>
 		<card>
-			<name>Trial and Error</name>
+			<name>Trial and Error </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD18/WD18-007.jpg">WD18</set>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/SP24/SP24-007.jpg">SP24</set>
 			<tablerow>0</tablerow>
@@ -13904,7 +13904,7 @@ Put 1 SIGNI on your opponent's field into its owner's Ener Zone, then if there i
 			</prop>
 		</card>
 		<card>
-			<name>Study</name>
+			<name>Study </name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WDK12/WDK12-022.jpg">WDK12</set>
 			<tablerow>3</tablerow>
 			<text>Choose one:
@@ -21715,7 +21715,7 @@ Vanish 1 SIGNI on your opponent's field.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Enlarge</name>
+			<name>Enlarge </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX01/WX01-050.jpg">WX01</set>
 			<tablerow>3</tablerow>
 			<text>All SIGNI on your field get +5000 power until end of turn.</text>
@@ -23553,7 +23553,7 @@ Put 1 SIGNI on your field into the trash.  If you do, vanish 1 SIGNI on your opp
 			</prop>
 		</card>
 		<card>
-			<name>Abundance</name>
+			<name>Abundance </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX02/WX02-066.jpg">WX02</set>
 			<tablerow>3</tablerow>
 			<text>Put 1 card from the top of your deck into your Ener Zone for each Aerial Beast, Terra Beast, and Plant SIGNI on your field.</text>
@@ -25122,7 +25122,7 @@ Vanish 1 SIGNI on your opponent's field with 10000 power or lower.  If you do, p
 			</prop>
 		</card>
 		<card>
-			<name>Rebirth</name>
+			<name>Rebirth </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX04/WX04-036.jpg">WX04</set>
 			<tablerow>3</tablerow>
 			<text>Vanish any number of Beauty SIGNI on your field.  Then search your deck for the same number of Beauty SIGNI that were vanished this way and put them onto your field.  Shuffle your deck.
@@ -28800,7 +28800,7 @@ Put any number of your [Charm]s into the trash.  1 SIGNI on your opponent's fiel
 			</prop>
 		</card>
 		<card>
-			<name>Exclude</name>
+			<name>Exclude </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX07/WX07-022.jpg">WX07</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -29979,7 +29979,7 @@ Return up to 3 of your level 3 or lower SIGNI from your field to their owners' h
 			</prop>
 		</card>
 		<card>
-			<name>Tenacity</name>
+			<name>Tenacity </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX08/WX08-010.jpg">WX08</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -34614,7 +34614,7 @@ Choose up to two:
 			</prop>
 		</card>
 		<card>
-			<name>Retribution</name>
+			<name>Retribution </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX11/WX11-020.jpg">WX11</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -37118,7 +37118,7 @@ If green was a chosen color, vanish 1 SIGNI on your opponent's field with power 
 			</prop>
 		</card>
 		<card>
-			<name>Sacrifice</name>
+			<name>Sacrifice </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX12/WX12-Re18.jpg">WX12</set>
 			<tablerow>3</tablerow>
 			<text>Vanish 1 SIGNI on your field.  If you do, vanish 1 SIGNI on your opponent's field with 12000 power or higher.  </text>
@@ -43978,7 +43978,7 @@ Put all SIGNI from your opponent's field into the trash, then remove all [Virus]
 			</prop>
 		</card>
 		<card>
-			<name>Resurrection</name>
+			<name>Resurrection </name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX16/WX16-075.jpg">WX16</set>
 			<tablerow>3</tablerow>
 			<text>Add the top card of your deck to your Life Cloth.
@@ -77748,7 +77748,7 @@ Search your deck for 1 SIGNI, reveal it and add it to your hand.  Shuffle your d
 			</prop>
 		</card>
 		<card>
-			<name>Silent Assassin</name>
+			<name>Silent Assassin </name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Silent%20Assassin.jpg">WXDi-P01</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase]
@@ -94137,7 +94137,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			</prop>
 		</card>
 		<card>
-			<name>Fabricate</name>
+			<name>Fabricate </name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P08-074[EN].jpg">WXDi-P08</set>
 			<tablerow>3</tablerow>
 			<text>Choose one:
@@ -127975,7 +127975,7 @@ Your level 1 or higher Assist LRIGs can attack this turn.  (You may attack with 
 </text>
 		</card>
 		<card>
-			<name>Angelic Shield</name>
+			<name>Angelic Shield </name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WX25/WX25-P1-071.jpg">WX25-P1</set>
 			<prop>
 				<colors>W</colors>
@@ -128907,7 +128907,7 @@ Declare 1 number.  Look at your opponent's hand, and your opponent discards all 
 </text>
 		</card>
 		<card>
-			<name>Dark Triumph</name>
+			<name>Dark Triumph </name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WX25/WX25-P1-TK4.jpg">WX25-P1</set>
 			<prop>
 				<colors>B</colors>
@@ -129184,7 +129184,7 @@ You get the following abilities for the rest of this game:
 </text>
 		</card>
 		<card>
-			<name>Dancing Sword</name>
+			<name>Dancing Sword </name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WX25/WX25-P2-006.jpg">WX25-P2</set>
 			<prop>
 				<colors>U</colors>
@@ -148083,7 +148083,7 @@ Put 1 Armed SIGNI from your hand onto your field.  If you bet, put 1 more Armed 
 			</prop>
 		</card>
 		<card>
-			<name>Hat Trick</name>
+			<name>Hat Trick </name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/SPK06/SPK06-04.jpg">SPK06</set>
 			<tablerow>0</tablerow>
 			<text>Use Timing [Main Phase] [Attack Phase]
