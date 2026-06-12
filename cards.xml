@@ -124257,7 +124257,7 @@ Draw 3 cards.  Then, target 1 SIGNI on your opponent's field, and you may reveal
 				<colors>U</colors>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
-				<type>ARTS (DS)</type>
+				<type>ARTS - (DS)</type>
 				<maintype>ARTS</maintype>
 				<format-allstar>legal</format-allstar>
 				<format-key>legal</format-key>
@@ -124837,7 +124837,7 @@ Look at the top 4 cards of your deck.  Reveal up to 2 Blue Archive cards from am
 				<colors></colors>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
-				<type>ARTS (DS)</type>
+				<type>ARTS - (DS)</type>
 				<maintype>ARTS</maintype>
 				<format-allstar>legal</format-allstar>
 				<format-key>legal</format-key>
@@ -124896,7 +124896,7 @@ If there is a Blue Archive SIGNI on your field, target 1 LRIG or SIGNI on your o
 				<colors></colors>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
-				<type>ARTS (DS)</type>
+				<type>ARTS - (DS)</type>
 				<maintype>ARTS</maintype>
 				<format-allstar>legal</format-allstar>
 				<format-key>legal</format-key>
