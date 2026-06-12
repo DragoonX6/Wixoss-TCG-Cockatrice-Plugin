@@ -5836,7 +5836,7 @@ Your "Peeping Analyze" ARTS costs a number of {U} less equal to your LRIG's leve
 			<name>Code Art OSS (WD16)</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WD16/WD16-013.jpg">WD16</set>
 			<tablerow>2</tablerow>
-			<text>While your LRIG is blue and this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, your opponent discards 1 card from their hand."</text>
+			<text>[Constant]: While your LRIG is blue and this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, your opponent discards 1 card from their hand."</text>
 			<prop>
 				<colors>U</colors>
 				<manacost>3</manacost>
@@ -28023,7 +28023,7 @@ Vanish 1 SIGNI on your opponent's field with 12000 power or lower and 1 SIGNI on
 			<name>Code Art OSS</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX06/WX06-029.jpg">WX06</set>
 			<tablerow>2</tablerow>
-			<text>While your LRIG is blue and this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, your opponent discards 1 card from their hand."</text>
+			<text>[Constant]: While your LRIG is blue and this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, your opponent discards 1 card from their hand."</text>
 			<prop>
 				<colors>U</colors>
 				<manacost>3</manacost>
@@ -55795,7 +55795,7 @@ All Ore and Jewel SIGNI on your field get [Double Crush] until end of turn.
 			<name>Code Art OSS (WX22)</name>
 			<set picURL="https://img.yuyu-tei.jp/card_image/wx/front/wx22/10149.jpg">WX22</set>
 			<tablerow>2</tablerow>
-			<text>While your LRIG is blue and this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, your opponent discards 1 card from their hand."</text>
+			<text>[Constant]: While your LRIG is blue and this SIGNI is on your center SIGNI Zone, this SIGNI gets "When this SIGNI attacks, your opponent discards 1 card from their hand."</text>
 			<prop>
 				<colors>U</colors>
 				<manacost>3</manacost>
