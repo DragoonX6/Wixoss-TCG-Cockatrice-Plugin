@@ -32189,7 +32189,7 @@ Put 1 SIGNI with a lower level than your LRIG's level from your opponent's field
 			<name>Code Art HTR</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX09/WX09-CB01.jpg">WX09</set>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  When this SIGNI attacks, you may discard 1 Electronics SIGNI from your hand.  If you do, choose one:
+			<text>[Auto]:  When this SIGNI attacks, you may discard 1 Electronics SIGNI from your hand.  If you do, choose one:
 - Draw 2 cards.
 - Vanish 1 frozen SIGNI on your opponent's field.
 - Discard 1 card from your opponent's hand at random.
@@ -35031,7 +35031,7 @@ Shuffle all SIGNI on your opponent's field into their owner's deck, then your op
 			<text>(Cross): "Code Art CMC" Right
 			
 [Enter]:  Search your deck for 1 SPELL with total cost 4 or more, reveal it, then add it to your hand.  Shuffle your deck.
-[Cross Constant]:  Once per turn, when this SIGNI reaches [Heaven], you may use 1 blue SPELL from your hand.  It costs {U}{U} less to use by this effect.
+[Cross Auto] [1/Turn]: When this SIGNI reaches [Heaven], you may use 1 blue SPELL from your hand.  It costs {U}{U} less to use by this effect.
 
 [Life Burst]:  Choose one:
 - Draw 1 card.  
@@ -35226,7 +35226,7 @@ Your opponent discards 3 cards from their hand.
 			<name>Aikuro, Large Claw</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX11/WX11-054.jpg">WX11</set>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  Once per turn, when an Armed SIGNI enters your field by a card effect (including this one), draw 1 card.</text>
+			<text>[Auto] [1/Turn]:  When an Armed SIGNI enters your field by a card effect (including this one), draw 1 card.</text>
 			<prop>
 				<colors>W</colors>
 				<manacost>3</manacost>
@@ -36723,7 +36723,7 @@ Look at the top 3 cards of your deck.  Add 1 card from among them to your hand, 
 			<name>Code Art †DRS†</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX12/WX12-053.jpg">WX12</set>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  When this SIGNI attacks, 1 SIGNI on your opponent's field gets -3000 power for every 4 spells in your trash.  </text>
+			<text>[Auto]:  When this SIGNI attacks, 1 SIGNI on your opponent's field gets -3000 power for every 4 spells in your trash.  </text>
 			<prop>
 				<colors>B</colors>
 				<manacost>3</manacost>
@@ -38524,7 +38524,7 @@ Add up to 2 colorless SIGNI with [Guard] from your trash to your hand.  </text>
 			<name>Code Art BRD</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX13/WX13-074.jpg">WX13</set>
 			<tablerow>2</tablerow>
-			<text>[Constant]:  When this SIGNI is from your hand put into the trash , freeze 1 SIGNI on your opponent's field.  (Frozen SIGNI don't up during their user's next up phase.)
+			<text>[Auto]:  When this SIGNI is from your hand put into the trash , freeze 1 SIGNI on your opponent's field.  (Frozen SIGNI don't up during their user's next up phase.)
 
 [Life Burst]:  Freeze 1 SIGNI on your opponent's field.  Draw 1 card.  </text>
 			<prop>
