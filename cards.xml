@@ -96568,7 +96568,7 @@ SIGNI that are on the same SIGNI Zone as a Virus become infected SIGNI.</text>
 			<text>We apolize for any inconvenience.
 (SIGNI cannot be placed on this SIGNI Zone.)</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
 				<type/>
@@ -100824,7 +100824,7 @@ Target 1 SIGNI on your opponent's field, and it gets -2000 power until end of tu
 			<tablerow>0</tablerow>
 			<text>{5} ...You gotta pay up.</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
 				<type/>
@@ -103275,7 +103275,7 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 
 [Auto]:  At the beginning of your Attack Phase, if this SIGNI is upped, target 1 SIGNI on your opponent's field, and you may choose 1 card in your hand.  If you do, your opponent declares 1 color icon, or colorless icon.  Discard the card you chose from your hand, and if it does not have the icon your opponent declared, vanish the targeted SIGNI.</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
 				<type>SIGNI - Idol Tone: Demon (Dissona) (DS)</type>
@@ -104224,7 +104224,7 @@ Draw 2 cards, then discard 1 card from your hand.  Then, target 1 level 1 SIGNI 
 
 Draw 2 cards, then discard 1 card from your hand.  Then, target 1 level 1 SIGNI on your opponent's field, and vanish it.  If you discarded a (Dissona) card by this card's effect,  instead target 1 SIGNI on your opponent's field, and vanish it.</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
 				<type>PIECE - (Dissona) (DS)</type>
@@ -106097,7 +106097,7 @@ Draw 2 cards, then discard 1 card from your hand.  Then, target 1 level 1 SIGNI 
 			<text>SIGNI Zones cannot have more than 1 [Virus] on them at a time.
 A SIGNI on any SIGNI Zone with a [Virus] on it is treated as an infected SIGNI.</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
 				<type/>
@@ -108439,7 +108439,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<tablerow>0</tablerow>
 			<text>(The next time you would take damage from a SIGNI, remove 1 [SIGNI Barrier] and you do not take that damage instead.)</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
 				<type/>
@@ -108456,7 +108456,7 @@ Target 1 SIGNI on your opponent's field, and it gets -8000 power until end of tu
 			<tablerow>0</tablerow>
 			<text>(The next time you would take damage from a LRIG, remove 1 [LRIG Barrier] and you do not take that damage instead.)</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
 				<type/>
@@ -130178,7 +130178,7 @@ Look at the top 7 cards of your deck.  Reveal a total of up to 2 SPELLs and/or E
 			<name>Familiar Enhance</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WX25/WX25-P2-046.jpg">WX25-P2</set>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
 				<type>ARTS - (DS)</type>
@@ -130197,7 +130197,7 @@ Look at the top 4 cards of your deck.  Reveal up to 2 cards that share a color w
 			<name>Smoke Slip Stop</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WX25/WX25-P2-047.jpg">WX25-P2</set>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
 				<type>ARTS - (DS)</type>
@@ -130216,7 +130216,7 @@ Target 1 LRIG and 1 SIGNI on your opponent's field, and they get "[Constant]:  C
 			<name>Getting Ready</name>
 			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/refs/heads/master/pics/CUSTOM/Getting%20Ready.jpg">WX25-P2</set>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
 				<type>PIECE - (DS)</type>
@@ -130923,7 +130923,7 @@ If your center LRIG is upped, draw 2 cards.  Up all LRIGs on your field.
 			<name>Toy Fireworks, Second Play</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WX25/WX25-P2-077.jpg">WX25-P2</set>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
 				<type>SIGNI|LB - War Tone: Amuser (DS)</type>
@@ -131676,7 +131676,7 @@ If your center LRIG is upped, draw 2 cards.  Up all LRIGs on your field.
 			<name>Servant # (WX25-P2)</name>
 			<set picURL="https://www.takaratomy.co.jp/products/wixoss/img/card/WX25/WX25-P2-116.jpg">WX25-P2</set>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
 				<type>SIGNI|LB - Primal Tone (DS)</type>
@@ -170126,7 +170126,7 @@ If the shared color is blue, draw 3 cards, then your opponent discards 3 cards f
 If the shared color is green, put all SIGNI on your opponent's field into the Ener Zone.
 If the shared color is black, your opponent puts the top 20 cards of their deck into the trash.</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
 				<type>ARTS - (DS)</type>
@@ -172087,7 +172087,7 @@ Crush 1 card in your opponent's Life Cloth.  Then target 1 SIGNI without [Guard]
 Draw 1 card.  You get the following ability for the rest of this game:
 "[Constant]:  You may discard 3 cards from your hand instead of discarding 1 card with [Guard] to [Guard]."</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>0</manacost>
 				<cmc>0</cmc>
 				<type>PIECE - (DS)</type>
@@ -172291,7 +172291,7 @@ Draw 1 card.  You get the following ability for the rest of this game:
 
 [Life Burst]:  Target 1 SIGNI in your trash, and add it to your hand.</text>
 			<prop>
-				<colors>C</colors>
+				<colors/>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
 				<type>SIGNI|LB - Primal Tone (DS)</type>
