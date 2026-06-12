@@ -103287,25 +103287,6 @@ Choose one.  If there are 2 or more LRIGs that share a color with each other on 
 			</prop>
 		</card>
 		<card>
-			<name>Urith//Dissona, Lucent Evil Queen</name>
-			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P12-055[EN].jpg">WXDi-P12</set>
-			<tablerow>2</tablerow>
-			<text>(Harmony): 2 LRIGs (This SIGNI is downed when it is put onto your field unless you down 2 upped LRIGs on your field.)
-
-[Auto]:  At the beginning of your Attack Phase, if this SIGNI is upped, target 1 SIGNI on your opponent's field, and you may choose 1 card in your hand.  If you do, your opponent declares 1 color icon, or colorless icon.  Discard the card you chose from your hand, and if it does not have the icon your opponent declared, vanish the targeted SIGNI.</text>
-			<prop>
-				<colors></colors>
-				<manacost>3</manacost>
-				<cmc>3</cmc>
-				<type>SIGNI - Idol Tone: Demon (Dissona) (DS)</type>
-				<pt>10000</pt>
-				<maintype>SIGNI</maintype>
-				<format-allstar>legal</format-allstar>
-				<format-key>legal</format-key>
-				<format-diva>legal</format-diva><format-english>legal</format-english>
-			</prop>
-		</card>
-		<card>
 			<name>Tawil//Dissona, Blessed Angel</name>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P12-056[EN].jpg">WXDi-P12</set>
 			<tablerow>2</tablerow>
@@ -153714,24 +153695,6 @@ Target 1 SIGNI on your opponent's field, and it gets -7000 power until end of tu
 				<manacost>0 - 0</manacost>
 				<cmc>0</cmc>
 				<type>LRIG - LOVIT [Card Jockey] (DS)</type>
-				<loyalty>0</loyalty>
-				<maintype>LRIG</maintype>
-				<format-english>legal</format-english>
-				<format-allstar>legal</format-allstar>
-				<format-key>legal</format-key>
-				<format-diva>legal</format-diva>
-			</prop>
-		</card>
-		<card>
-			<name>Newborn Dr. Tamago (SPDi01S)</name>
-			<set picURL="https://raw.githubusercontent.com/TetrusAO/Wixoss-TCG-Cockatrice-Plugin/master/pics/CUSTOM/Newborn%20Dr.%20Tamago%20%28SPDi01S%29.jpg">SPDi01S</set>
-			<tablerow>0</tablerow>
-			<text/>
-			<prop>
-				<colors>U</colors>
-				<manacost>0 - 0</manacost>
-				<cmc>0</cmc>
-				<type>LRIG - Tamago [UCHU NO HAJIMARI] (DS)</type>
 				<loyalty>0</loyalty>
 				<maintype>LRIG</maintype>
 				<format-english>legal</format-english>
