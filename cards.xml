@@ -10733,7 +10733,7 @@ Return up to 2 Playground SIGNI on your field to their owners' hands, then retur
 			
 [Bet]: 1 Coin.  (You may pay 1 Coin as you use this ARTS.)
 Choose one.  If you bet, choose two instead:
-- 1 SIGNI on your opponent's gets "This SIGNI cannot attack." until end of turn.  Discard 2 cards from your hand.  (If there are less than 2 cards in your hand, discard all of them.)
+- 1 SIGNI on your opponent's field gets "This SIGNI cannot attack." until end of turn.  Discard 2 cards from your hand.  (If there are less than 2 cards in your hand, discard all of them.)
 - Add 1 SIGNI from your trash to your hand.</text>
 			<prop>
 				<colors></colors>
@@ -35050,7 +35050,7 @@ Shuffle all SIGNI on your opponent's field into their owner's deck, then your op
 			<name>SHOOTING</name>
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX11/WX11-044.jpg">WX11</set>
 			<tablerow>3</tablerow>
-			<text>As you use this SPELL, you may discard 3 SPELLs from your hand.  If you do, this SPELL costs {U}{U}{U} to use.
+			<text>As you use this SPELL, you may discard 3 SPELLs from your hand.  If you do, this SPELL costs {U}{U}{U} less to use.
 Your opponent discards 3 cards from their hand.
 
 [Life Burst]:  Your opponent discards 2 cards from their hand unless they discard 1 colorless card.  </text>
@@ -39770,7 +39770,7 @@ If there are 0 cards in your hand, add 1 SIGNI from your trash to your hand.  If
 			<set picURL="http://www.takaratomy.co.jp/products/wixoss/img/card/WX14/WX14-042.jpg">WX14</set>
 			<tablerow>2</tablerow>
 			<text>[Constant]:  While there is a RESONA on your field, this SIGNI's power becomes 12000.
-[Constant]:  At the end of your turn, you may put this SIGNI from the field into the trash.  If you do, your LRIG gets "[Action] [1/Turn] [Attack Phase] {0}: Vanish 1 SIGNI on your opponent's field with 12000 power 12000 or higher." until the end of your opponent's next End Phase.  </text>
+[Constant]:  At the end of your turn, you may put this SIGNI from the field into the trash.  If you do, your LRIG gets "[Action] [1/Turn] [Attack Phase] {0}: Vanish 1 SIGNI on your opponent's field with 12000 power or higher." until the end of your opponent's next End Phase.  </text>
 			<prop>
 				<colors>G</colors>
 				<manacost>3</manacost>
@@ -83490,7 +83490,7 @@ Target 1 SIGNI on your field, and it gets +5000 power and "[Auto]:  When this SI
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-P03-089[EN].jpg">WXDi-P03</set>
 			<set picURL="https://www.takaratomy.co.jp/products/en.wixoss/card/thumb/WXDi-EXD01-028[EN].jpg">WXDi-EXD01</set>
 			<tablerow>3</tablerow>
-			<text>You may an additional {Exceed 4} for this SPELL's use cost as you use it.  (Put a total of 4 cards from under any of your LRIGs into the LRIG Trash.)
+			<text>You may pay an additional {Exceed 4} for this SPELL's use cost as you use it.  (Put a total of 4 cards from under any of your LRIGs into the LRIG Trash.)
 Target 1 SIGNI on your opponent's field, and it gets -5000 power until end of turn.  If you paid an additional {Exceed 4}, that SIGNI gets -12000 power until end of turn instead.</text>
 			<prop>
 				<colors>B</colors>
